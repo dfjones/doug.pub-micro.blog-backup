@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2025/02/13/everyday.html",
+				
+				"content_html": "<p>Everyday 081</p>\n<p><img src=\"https://doug.pub/uploads/2025/dscf0864.jpg\" alt=\"Auto-generated description: A barren tree trunk stands beside leafless branches under a clear sky.\"></p>\n",
+				"content_text": "Everyday 081\r\n\r\n![Auto-generated description: A barren tree trunk stands beside leafless branches under a clear sky.](https://doug.pub/uploads/2025/dscf0864.jpg)\n",
+				"date_published": "2025-02-13T11:21:27-05:00",
+				"url": "https://doug.pub/2025/02/13/everyday.html",
+				"tags": ["📷: Everyday"]
+			},
+			{
+				"id": "http://dfj.micro.blog/2025/02/09/everyday.html",
+				
+				"content_html": "<p>Everyday 080</p>\n<p><img src=\"https://doug.pub/uploads/2025/845eb24a-3760-4ad8-92bd-91ae5072b49b.jpg\" alt=\"A close-up of a yellow leaf on a bare branch, set against a background of tangled branches and trees under a clear blue sky.\"></p>\n",
+				"content_text": "Everyday 080\n\n![A close-up of a yellow leaf on a bare branch, set against a background of tangled branches and trees under a clear blue sky.](https://doug.pub/uploads/2025/845eb24a-3760-4ad8-92bd-91ae5072b49b.jpg)\n\n",
+				"date_published": "2025-02-09T21:23:53-05:00",
+				"url": "https://doug.pub/2025/02/09/everyday.html",
+				"tags": ["📷: Everyday"]
+			},
+			{
 				"id": "http://dfj.micro.blog/2025/02/08/everyday.html",
 				
 				"content_html": "<p>Everyday 079</p>\n<p><img src=\"https://doug.pub/uploads/2025/7e6da9ea-5e44-4ebf-822f-8932539430b1.jpg\" alt=\"A monochrome image of a forest with tall trees. In the center is a tall, broken tree trunk, surrounded by bare branches and various types of foliage. The sky is clear in the background.\"></p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://dfj.micro.blog/2025/02/02/everyday.html",
 				
-				"content_html": "<p>Everyday 075</p>\n<p><img src=\"https://doug.pub/uploads/2025/f2af29e8-dc43-42ea-a2e8-ab0b6ad7a6e7.jpg\" alt=\"A stone planter sits on a bed of dry leaves, surrounded by low stone walls and greenery. Trees are in the background.\"></p>\n",
-				"content_text": "Everyday 075\n\n![A stone planter sits on a bed of dry leaves, surrounded by low stone walls and greenery. Trees are in the background.](https://doug.pub/uploads/2025/f2af29e8-dc43-42ea-a2e8-ab0b6ad7a6e7.jpg)\n\n",
+				"content_html": "<p>Everyday 075</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2025/f2af29e8-dc43-42ea-a2e8-ab0b6ad7a6e7.jpg\" alt=\"A stone planter sits on a bed of dry leaves, surrounded by low stone walls and greenery. Trees are in the background.\"></p>\n",
+				"content_text": "Everyday 075\n\n![A stone planter sits on a bed of dry leaves, surrounded by low stone walls and greenery. Trees are in the background.](https://cdn.uploads.micro.blog/1726/2025/f2af29e8-dc43-42ea-a2e8-ab0b6ad7a6e7.jpg)\n\n",
 				"date_published": "2025-02-02T22:22:09-05:00",
 				"url": "https://doug.pub/2025/02/02/everyday.html",
 				"tags": ["📷: Everyday"]
