@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/01/14/finished-reading-mobydick-by-herman.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780142437247\">Moby-Dick</a> by Herman Melville 📚</p>\n<p>Epic! I read this with a book club, and I&rsquo;m very glad this was the club&rsquo;s pick because I&rsquo;m not sure I would have read it otherwise. Moby Dick was very different than what I expected, more enjoyable and more relevant than my expectations.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780142437247/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Moby-Dick](https://micro.blog/books/9780142437247) by Herman Melville 📚\n\nEpic! I read this with a book club, and I'm very glad this was the club's pick because I'm not sure I would have read it otherwise. Moby Dick was very different than what I expected, more enjoyable and more relevant than my expectations. \n",
+				"date_published": "2026-01-14T21:39:24-05:00",
+				"url": "https://doug.pub/2026/01/14/finished-reading-mobydick-by-herman.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/01/05/pluralisticnetc-which-is-why-ive.html",
 				
 				"content_html": "<p><a href=\"https://pluralistic.net/2026/01/01/39c3/\">pluralistic.net/2026/01/01/39c3</a></p>\n<blockquote>\n<p>Which is why I&rsquo;ve come to Hamburg today. Because, after decades of throwing myself against a locked door, the door that leads to a new, good internet, one that delivers both the technological self-determination of the old, good internet, and the ease of use of Web 2.0 that let our normie friends join the party, that door has been unlocked.</p>\n</blockquote>\n<p>I&rsquo;m a fan of Cory Doctorow and the EFF, I think they argue for the right side of most issues. If you care about open technology (and I&rsquo;d argue everyone should) this post is worth a read. It describes an opportunity for the world to loosen the grip that American tech companies have over technology and the way it&rsquo;s used.</p>\n<p>I&rsquo;ve been aware of America&rsquo;s DMCA law, and it&rsquo;s flaws, since the law&rsquo;s inception. What I didn&rsquo;t realize is that America has coerced most of the world to pass similar laws locally. Give this post a read for why that&rsquo;s important and why there&rsquo;s opportunity now to unwind the effects of these laws.</p>\n",
@@ -2431,8 +2439,8 @@
 			{
 				"id": "http://dfj.micro.blog/2024/03/16/a-sunset-view.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/61a8efc9-8c2f-4218-be4b-1fc69a2ed4b8.jpg\" alt=\"A sunset view over a tropical beach with silhouetted palm trees against a sky with orange-tinged clouds and a calm sea in the foreground.\"></p>\n<p>A sunset view of Playa Negra, Vieques, Puerto Rico.</p>\n",
-				"content_text": "![A sunset view over a tropical beach with silhouetted palm trees against a sky with orange-tinged clouds and a calm sea in the foreground.](https://cdn.uploads.micro.blog/1726/2024/61a8efc9-8c2f-4218-be4b-1fc69a2ed4b8.jpg)\n\nA sunset view of Playa Negra, Vieques, Puerto Rico. \n",
+				"content_html": "<p><img src=\"https://doug.pub/uploads/2024/61a8efc9-8c2f-4218-be4b-1fc69a2ed4b8.jpg\" alt=\"A sunset view over a tropical beach with silhouetted palm trees against a sky with orange-tinged clouds and a calm sea in the foreground.\"></p>\n<p>A sunset view of Playa Negra, Vieques, Puerto Rico.</p>\n",
+				"content_text": "![A sunset view over a tropical beach with silhouetted palm trees against a sky with orange-tinged clouds and a calm sea in the foreground.](https://doug.pub/uploads/2024/61a8efc9-8c2f-4218-be4b-1fc69a2ed4b8.jpg)\n\nA sunset view of Playa Negra, Vieques, Puerto Rico. \n",
 				"date_published": "2024-03-16T11:43:57-05:00",
 				"url": "https://doug.pub/2024/03/16/a-sunset-view.html"
 			},
@@ -2463,16 +2471,16 @@
 			{
 				"id": "http://dfj.micro.blog/2024/02/25/a-few-photos.html",
 				
-				"content_html": "<p>A few photos from a hike around Arabia Mountain Park.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/b5448223-b98a-4b90-8654-cd63b673eedf.jpg\" alt=\"A barren landscape with rocky ground and sparse vegetation under a clear blue sky.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/e66b343f-60d6-47e2-b08a-579c9e98ba68.jpg\" alt=\"A barren landscape with exposed rocky terrain and sparse vegetation under a clear blue sky. The foreground shows patches of red-hued ground cover, and scattered rocks and trees are visible in the distance.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/e08324d0-05de-4735-85ce-c879513c1f27.jpg\" alt=\"An outdoor scene with tall pine trees under a blue sky with wispy clouds. A barren tree trunk stands in the center, with a bird perched on top. The foreground shows a patch of barren land with fallen branches and stumps.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/bc705e51-e0dc-44ca-8fa0-e751e55c349c.jpg\" alt=\"A weathered sign next to a concrete structure in a barren landscape with trees and a clear blue sky with wispy clouds.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/b5f1dc2f-dbcc-443d-927b-cd1389ebe554.jpg\" alt=\"A small waterfall flowing from a forest creek through a stone wall, with fallen logs and bare trees surrounding it, reflecting a clear blue sky above.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/b29fd6bd-b357-43bc-aefc-ae2e39797398.jpg\" alt=\"A serene pond with reflections of trees and blue sky, and a rusty metal structure partially submerged in the water.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/40fc45b7-5c97-4d30-ae3f-2e1b7caab915.jpg\" alt=\"A forest floor covered with patches of light-colored lichen and scattered young pine saplings, with a backdrop of leafless trees.\"></p>\n",
-				"content_text": "A few photos from a hike around Arabia Mountain Park. \n\n![A barren landscape with rocky ground and sparse vegetation under a clear blue sky.](https://cdn.uploads.micro.blog/1726/2024/b5448223-b98a-4b90-8654-cd63b673eedf.jpg)\n\n![A barren landscape with exposed rocky terrain and sparse vegetation under a clear blue sky. The foreground shows patches of red-hued ground cover, and scattered rocks and trees are visible in the distance.](https://cdn.uploads.micro.blog/1726/2024/e66b343f-60d6-47e2-b08a-579c9e98ba68.jpg)\n\n![An outdoor scene with tall pine trees under a blue sky with wispy clouds. A barren tree trunk stands in the center, with a bird perched on top. The foreground shows a patch of barren land with fallen branches and stumps.](https://cdn.uploads.micro.blog/1726/2024/e08324d0-05de-4735-85ce-c879513c1f27.jpg)\n\n![A weathered sign next to a concrete structure in a barren landscape with trees and a clear blue sky with wispy clouds.](https://cdn.uploads.micro.blog/1726/2024/bc705e51-e0dc-44ca-8fa0-e751e55c349c.jpg)\n\n![A small waterfall flowing from a forest creek through a stone wall, with fallen logs and bare trees surrounding it, reflecting a clear blue sky above.](https://cdn.uploads.micro.blog/1726/2024/b5f1dc2f-dbcc-443d-927b-cd1389ebe554.jpg)\n\n![A serene pond with reflections of trees and blue sky, and a rusty metal structure partially submerged in the water.](https://cdn.uploads.micro.blog/1726/2024/b29fd6bd-b357-43bc-aefc-ae2e39797398.jpg)\n\n![A forest floor covered with patches of light-colored lichen and scattered young pine saplings, with a backdrop of leafless trees.](https://cdn.uploads.micro.blog/1726/2024/40fc45b7-5c97-4d30-ae3f-2e1b7caab915.jpg)\n\n",
+				"content_html": "<p>A few photos from a hike around Arabia Mountain Park.</p>\n<p><img src=\"https://doug.pub/uploads/2024/b5448223-b98a-4b90-8654-cd63b673eedf.jpg\" alt=\"A barren landscape with rocky ground and sparse vegetation under a clear blue sky.\"></p>\n<p><img src=\"https://doug.pub/uploads/2024/e66b343f-60d6-47e2-b08a-579c9e98ba68.jpg\" alt=\"A barren landscape with exposed rocky terrain and sparse vegetation under a clear blue sky. The foreground shows patches of red-hued ground cover, and scattered rocks and trees are visible in the distance.\"></p>\n<p><img src=\"https://doug.pub/uploads/2024/e08324d0-05de-4735-85ce-c879513c1f27.jpg\" alt=\"An outdoor scene with tall pine trees under a blue sky with wispy clouds. A barren tree trunk stands in the center, with a bird perched on top. The foreground shows a patch of barren land with fallen branches and stumps.\"></p>\n<p><img src=\"https://doug.pub/uploads/2024/bc705e51-e0dc-44ca-8fa0-e751e55c349c.jpg\" alt=\"A weathered sign next to a concrete structure in a barren landscape with trees and a clear blue sky with wispy clouds.\"></p>\n<p><img src=\"https://doug.pub/uploads/2024/b5f1dc2f-dbcc-443d-927b-cd1389ebe554.jpg\" alt=\"A small waterfall flowing from a forest creek through a stone wall, with fallen logs and bare trees surrounding it, reflecting a clear blue sky above.\"></p>\n<p><img src=\"https://doug.pub/uploads/2024/b29fd6bd-b357-43bc-aefc-ae2e39797398.jpg\" alt=\"A serene pond with reflections of trees and blue sky, and a rusty metal structure partially submerged in the water.\"></p>\n<p><img src=\"https://doug.pub/uploads/2024/40fc45b7-5c97-4d30-ae3f-2e1b7caab915.jpg\" alt=\"A forest floor covered with patches of light-colored lichen and scattered young pine saplings, with a backdrop of leafless trees.\"></p>\n",
+				"content_text": "A few photos from a hike around Arabia Mountain Park. \n\n![A barren landscape with rocky ground and sparse vegetation under a clear blue sky.](https://doug.pub/uploads/2024/b5448223-b98a-4b90-8654-cd63b673eedf.jpg)\n\n![A barren landscape with exposed rocky terrain and sparse vegetation under a clear blue sky. The foreground shows patches of red-hued ground cover, and scattered rocks and trees are visible in the distance.](https://doug.pub/uploads/2024/e66b343f-60d6-47e2-b08a-579c9e98ba68.jpg)\n\n![An outdoor scene with tall pine trees under a blue sky with wispy clouds. A barren tree trunk stands in the center, with a bird perched on top. The foreground shows a patch of barren land with fallen branches and stumps.](https://doug.pub/uploads/2024/e08324d0-05de-4735-85ce-c879513c1f27.jpg)\n\n![A weathered sign next to a concrete structure in a barren landscape with trees and a clear blue sky with wispy clouds.](https://doug.pub/uploads/2024/bc705e51-e0dc-44ca-8fa0-e751e55c349c.jpg)\n\n![A small waterfall flowing from a forest creek through a stone wall, with fallen logs and bare trees surrounding it, reflecting a clear blue sky above.](https://doug.pub/uploads/2024/b5f1dc2f-dbcc-443d-927b-cd1389ebe554.jpg)\n\n![A serene pond with reflections of trees and blue sky, and a rusty metal structure partially submerged in the water.](https://doug.pub/uploads/2024/b29fd6bd-b357-43bc-aefc-ae2e39797398.jpg)\n\n![A forest floor covered with patches of light-colored lichen and scattered young pine saplings, with a backdrop of leafless trees.](https://doug.pub/uploads/2024/40fc45b7-5c97-4d30-ae3f-2e1b7caab915.jpg)\n\n",
 				"date_published": "2024-02-25T21:38:52-05:00",
 				"url": "https://doug.pub/2024/02/25/a-few-photos.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2024/02/19/signs-of-spring.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/b8413aca-702a-438d-9d72-192722ac5f17.jpg\" alt=\"A cluster of daffodils in full bloom in a woodland setting, with leafless trees and ivy-covered ground in the background.\"></p>\n<p>Signs of Spring.</p>\n",
-				"content_text": "![A cluster of daffodils in full bloom in a woodland setting, with leafless trees and ivy-covered ground in the background.](https://cdn.uploads.micro.blog/1726/2024/b8413aca-702a-438d-9d72-192722ac5f17.jpg)\n\nSigns of Spring. \n",
+				"content_html": "<p><img src=\"https://doug.pub/uploads/2024/b8413aca-702a-438d-9d72-192722ac5f17.jpg\" alt=\"A cluster of daffodils in full bloom in a woodland setting, with leafless trees and ivy-covered ground in the background.\"></p>\n<p>Signs of Spring.</p>\n",
+				"content_text": "![A cluster of daffodils in full bloom in a woodland setting, with leafless trees and ivy-covered ground in the background.](https://doug.pub/uploads/2024/b8413aca-702a-438d-9d72-192722ac5f17.jpg)\n\nSigns of Spring. \n",
 				"date_published": "2024-02-19T11:08:19-05:00",
 				"url": "https://doug.pub/2024/02/19/signs-of-spring.html"
 			},
@@ -2535,8 +2543,8 @@
 			{
 				"id": "http://dfj.micro.blog/2024/01/24/my-first-mac.html",
 				
-				"content_html": "<p>My first Mac was a white iBook G4, which I still have on a shelf in my home!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/a1b1e435-ce10-43da-8c4f-e48397aaf128.jpg\" alt=\"A white iBook G4 laptop, situated on a shelf.\"></p>\n<p>#MyFirstMac</p>\n",
-				"content_text": "My first Mac was a white iBook G4, which I still have on a shelf in my home!\n\n![A white iBook G4 laptop, situated on a shelf.](https://cdn.uploads.micro.blog/1726/2024/a1b1e435-ce10-43da-8c4f-e48397aaf128.jpg)\n\n\n#MyFirstMac \n",
+				"content_html": "<p>My first Mac was a white iBook G4, which I still have on a shelf in my home!</p>\n<p><img src=\"https://doug.pub/uploads/2024/a1b1e435-ce10-43da-8c4f-e48397aaf128.jpg\" alt=\"A white iBook G4 laptop, situated on a shelf.\"></p>\n<p>#MyFirstMac</p>\n",
+				"content_text": "My first Mac was a white iBook G4, which I still have on a shelf in my home!\n\n![A white iBook G4 laptop, situated on a shelf.](https://doug.pub/uploads/2024/a1b1e435-ce10-43da-8c4f-e48397aaf128.jpg)\n\n\n#MyFirstMac \n",
 				"date_published": "2024-01-24T12:09:51-05:00",
 				"url": "https://doug.pub/2024/01/24/my-first-mac.html"
 			},
@@ -2559,24 +2567,24 @@
 			{
 				"id": "http://dfj.micro.blog/2024/01/17/frost-found-in.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/4a3ab064-1618-47c8-90e2-e84b806e8ecc.jpg\" alt=\"A macro photo of frost amongst some small ground scrub plants\"></p>\n<p>Frost found in the back yard today.</p>\n",
-				"content_text": "![A macro photo of frost amongst some small ground scrub plants](https://cdn.uploads.micro.blog/1726/2024/4a3ab064-1618-47c8-90e2-e84b806e8ecc.jpg)\n\nFrost found in the back yard today. \n",
+				"content_html": "<p><img src=\"https://doug.pub/uploads/2024/4a3ab064-1618-47c8-90e2-e84b806e8ecc.jpg\" alt=\"A macro photo of frost amongst some small ground scrub plants\"></p>\n<p>Frost found in the back yard today.</p>\n",
+				"content_text": "![A macro photo of frost amongst some small ground scrub plants](https://doug.pub/uploads/2024/4a3ab064-1618-47c8-90e2-e84b806e8ecc.jpg)\n\nFrost found in the back yard today. \n",
 				"date_published": "2024-01-17T18:39:57-05:00",
 				"url": "https://doug.pub/2024/01/17/frost-found-in.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2024/01/17/hit-a-low.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/deb40173-2f08-4d43-bfea-17d122f5f67e.jpg\" alt=\"Graph showing a low temperature point of 13.3 F\"></p>\n<p>Hit a low of 13.3 today! 🥶 They promised me it wouldn’t be this cold in Atlanta!</p>\n",
-				"content_text": "![Graph showing a low temperature point of 13.3 F](https://cdn.uploads.micro.blog/1726/2024/deb40173-2f08-4d43-bfea-17d122f5f67e.jpg)\n\nHit a low of 13.3 today! 🥶 They promised me it wouldn’t be this cold in Atlanta!\n",
+				"content_html": "<p><img src=\"https://doug.pub/uploads/2024/deb40173-2f08-4d43-bfea-17d122f5f67e.jpg\" alt=\"Graph showing a low temperature point of 13.3 F\"></p>\n<p>Hit a low of 13.3 today! 🥶 They promised me it wouldn’t be this cold in Atlanta!</p>\n",
+				"content_text": "![Graph showing a low temperature point of 13.3 F](https://doug.pub/uploads/2024/deb40173-2f08-4d43-bfea-17d122f5f67e.jpg)\n\nHit a low of 13.3 today! 🥶 They promised me it wouldn’t be this cold in Atlanta!\n",
 				"date_published": "2024-01-17T10:54:41-05:00",
 				"url": "https://doug.pub/2024/01/17/hit-a-low.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2024/01/13/photos-from-a.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/0dfe873f-12a2-4f5d-922e-5e4e4da4e978.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2024/794e23e2-4aa8-4a71-ab75-c6f886123856.jpg\" alt=\"\"></p>\n<p>Photos from a hike around <a href=\"https://arabiaalliance.org/\">Arabia Mountain</a> last weekend.</p>\n<p>Also, testing out <a href=\"https://samgrover.studio/apps/mimi\">Mimi uploader</a>.</p>\n",
-				"content_text": "![](https://cdn.uploads.micro.blog/1726/2024/0dfe873f-12a2-4f5d-922e-5e4e4da4e978.jpg)\n\n![](https://cdn.uploads.micro.blog/1726/2024/794e23e2-4aa8-4a71-ab75-c6f886123856.jpg)\n\nPhotos from a hike around [Arabia Mountain](https://arabiaalliance.org/) last weekend. \n\nAlso, testing out [Mimi uploader](https://samgrover.studio/apps/mimi). \n",
+				"content_html": "<p><img src=\"https://doug.pub/uploads/2024/0dfe873f-12a2-4f5d-922e-5e4e4da4e978.jpg\" alt=\"\"></p>\n<p><img src=\"https://doug.pub/uploads/2024/794e23e2-4aa8-4a71-ab75-c6f886123856.jpg\" alt=\"\"></p>\n<p>Photos from a hike around <a href=\"https://arabiaalliance.org/\">Arabia Mountain</a> last weekend.</p>\n<p>Also, testing out <a href=\"https://samgrover.studio/apps/mimi\">Mimi uploader</a>.</p>\n",
+				"content_text": "![](https://doug.pub/uploads/2024/0dfe873f-12a2-4f5d-922e-5e4e4da4e978.jpg)\n\n![](https://doug.pub/uploads/2024/794e23e2-4aa8-4a71-ab75-c6f886123856.jpg)\n\nPhotos from a hike around [Arabia Mountain](https://arabiaalliance.org/) last weekend. \n\nAlso, testing out [Mimi uploader](https://samgrover.studio/apps/mimi). \n",
 				"date_published": "2024-01-13T12:25:37-05:00",
 				"url": "https://doug.pub/2024/01/13/photos-from-a.html"
 			},
@@ -2608,7 +2616,7 @@
 				"id": "http://dfj.micro.blog/2024/01/07/made-detroit-style.html",
 				
 				"content_html": "<p>Made Detroit style pizza last night and it turbed out great! Was not expecting this to be so good on the first shot at making it with a dough from scratch.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Made Detroit style pizza last night and it turbed out great! Was not expecting this to be so good on the first shot at making it with a dough from scratch. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2024/0979bbe194.jpg\" width=\"600\" height=\"316\" alt=\"\">\n",
+				"content_text": "Made Detroit style pizza last night and it turbed out great! Was not expecting this to be so good on the first shot at making it with a dough from scratch. \n\n<img src=\"uploads/2024/0979bbe194.jpg\" width=\"600\" height=\"316\" alt=\"\">\n",
 				"date_published": "2024-01-07T11:52:50-05:00",
 				"url": "https://doug.pub/2024/01/07/made-detroit-style.html"
 			},
@@ -2616,7 +2624,7 @@
 				"id": "http://dfj.micro.blog/2023/12/18/some-important-new.html",
 				
 				"content_html": "<p>Some important new ornaments just arrived and went up on the tree.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some important new ornaments just arrived and went up on the tree. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/ef2ee60e13.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Some important new ornaments just arrived and went up on the tree. \n\n<img src=\"uploads/2023/ef2ee60e13.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-18T22:02:47-05:00",
 				"url": "https://doug.pub/2023/12/18/some-important-new.html"
 			},
@@ -2655,8 +2663,8 @@
 			{
 				"id": "http://dfj.micro.blog/2023/12/16/if-you-like.html",
 				
-				"content_html": "<p>If you like reading about the history of the Web, I think you&rsquo;ll enjoy this article <a href=\"https://retool.com/pipes\">Pipe Dreams: The life and times of Yahoo Pipes</a>.</p>\n<p>I also enjoyed how the design captures the era (and has some fun Easter eggs).</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2023/img-0009.png\" alt=\"An artistic rendition of a late 90s/early 2000s desk with an iMac showing the Mac OS X desktop and text that reads &ldquo;Pipe Dreams. The life and times of Yahoo Pipes&rdquo;\"></p>\n",
-				"content_text": "If you like reading about the history of the Web, I think you'll enjoy this article [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes).\n\nI also enjoyed how the design captures the era (and has some fun Easter eggs). \n\n\n![An artistic rendition of a late 90s/early 2000s desk with an iMac showing the Mac OS X desktop and text that reads \"Pipe Dreams. The life and times of Yahoo Pipes\"](https://cdn.uploads.micro.blog/1726/2023/img-0009.png)\n",
+				"content_html": "<p>If you like reading about the history of the Web, I think you&rsquo;ll enjoy this article <a href=\"https://retool.com/pipes\">Pipe Dreams: The life and times of Yahoo Pipes</a>.</p>\n<p>I also enjoyed how the design captures the era (and has some fun Easter eggs).</p>\n<p><img src=\"https://doug.pub/uploads/2023/img-0009.png\" alt=\"An artistic rendition of a late 90s/early 2000s desk with an iMac showing the Mac OS X desktop and text that reads &ldquo;Pipe Dreams. The life and times of Yahoo Pipes&rdquo;\"></p>\n",
+				"content_text": "If you like reading about the history of the Web, I think you'll enjoy this article [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes).\n\nI also enjoyed how the design captures the era (and has some fun Easter eggs). \n\n\n![An artistic rendition of a late 90s/early 2000s desk with an iMac showing the Mac OS X desktop and text that reads \"Pipe Dreams. The life and times of Yahoo Pipes\"](https://doug.pub/uploads/2023/img-0009.png)\n",
 				"date_published": "2023-12-16T10:13:25-05:00",
 				"url": "https://doug.pub/2023/12/16/if-you-like.html"
 			},
@@ -2696,7 +2704,7 @@
 				"id": "http://dfj.micro.blog/2023/12/06/another-capture-for.html",
 				
 				"content_html": "<p>Another capture for the <a href=\"https://www.chronolog.io/site/MMP103\">Chronolog at Mason Mill Park</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Another capture for the [Chronolog at Mason Mill Park](https://www.chronolog.io/site/MMP103). \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/5a6c3c0c9c.jpg\" width=\"600\" height=\"450\" alt=\"A brown creek with sparse fall foliage through which a house is visible. \"><img src=\"https://cdn.uploads.micro.blog/1726/2023/612ec0e1f0.jpg\" width=\"450\" height=\"600\" alt=\"A sign with the ID MMP-103 and instructions for how to take a photo and email to uploads@chronolog.io\">\n",
+				"content_text": "Another capture for the [Chronolog at Mason Mill Park](https://www.chronolog.io/site/MMP103). \n\n\n\n<img src=\"uploads/2023/5a6c3c0c9c.jpg\" width=\"600\" height=\"450\" alt=\"A brown creek with sparse fall foliage through which a house is visible. \"><img src=\"uploads/2023/612ec0e1f0.jpg\" width=\"450\" height=\"600\" alt=\"A sign with the ID MMP-103 and instructions for how to take a photo and email to uploads@chronolog.io\">\n",
 				"date_published": "2023-12-06T08:46:55-05:00",
 				"url": "https://doug.pub/2023/12/06/another-capture-for.html"
 			},
@@ -2712,7 +2720,7 @@
 				"id": "http://dfj.micro.blog/2023/11/26/hiked-around-hocking.html",
 				
 				"content_html": "<p>Hiked around Hocking Hills and Conkle’s Hollow, Ohio over 🦃 week.</p>\n<p>I find this area so beautiful. It’s filled with Hemlock trees, gorges, and waterfalls.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hiked around Hocking Hills and Conkle’s Hollow, Ohio over 🦃 week. \n\nI find this area so beautiful. It’s filled with Hemlock trees, gorges, and waterfalls. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/f73eda2912.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/fa9fb33c0d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/72be9f4399.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/ac6a205792.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/efb3ad8523.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/07c8b328b5.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/782b077564.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/d16b388c87.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/9d5a53f2f5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hiked around Hocking Hills and Conkle’s Hollow, Ohio over 🦃 week. \n\nI find this area so beautiful. It’s filled with Hemlock trees, gorges, and waterfalls. \n\n<img src=\"uploads/2023/f73eda2912.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/fa9fb33c0d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/72be9f4399.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ac6a205792.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/efb3ad8523.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/07c8b328b5.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/782b077564.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/d16b388c87.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/9d5a53f2f5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-26T14:27:45-05:00",
 				"url": "https://doug.pub/2023/11/26/hiked-around-hocking.html"
 			},
@@ -2720,7 +2728,7 @@
 				"id": "http://dfj.micro.blog/2023/10/28/danger.html",
 				
 				"content_html": "<p>Danger</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Danger \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/9217e1aa9a.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Danger \n\n<img src=\"uploads/2023/9217e1aa9a.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-10-28T20:52:18-05:00",
 				"url": "https://doug.pub/2023/10/28/danger.html"
 			},
@@ -2728,7 +2736,7 @@
 				"id": "http://dfj.micro.blog/2023/10/09/095507.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/c73cdf1931.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2023/c73cdf1931.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-09T08:55:07-05:00",
 				"url": "https://doug.pub/2023/10/09/095507.html"
 			},
@@ -2736,7 +2744,7 @@
 				"id": "http://dfj.micro.blog/2023/10/02/vogel-state-park.html",
 				
 				"content_html": "<p>Vogel State Park and one happy/maybe bored dog.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Vogel State Park and one happy/maybe bored dog. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/cb2474ffd2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/898af44ffc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/24958730b5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Vogel State Park and one happy/maybe bored dog. \n\n\n\n<img src=\"uploads/2023/cb2474ffd2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/898af44ffc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/24958730b5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-02T20:16:25-05:00",
 				"url": "https://doug.pub/2023/10/02/vogel-state-park.html"
 			},
@@ -2744,7 +2752,7 @@
 				"id": "http://dfj.micro.blog/2023/09/24/its-becoming-spider.html",
 				
 				"content_html": "<p>It’s becoming spider season, but here’s a spider  of a different sort.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s becoming spider season, but here’s a spider  of a different sort. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/c52b487522.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "It’s becoming spider season, but here’s a spider  of a different sort. \n\n<img src=\"uploads/2023/c52b487522.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-24T17:39:39-05:00",
 				"url": "https://doug.pub/2023/09/24/its-becoming-spider.html"
 			},
@@ -2752,7 +2760,7 @@
 				"id": "http://dfj.micro.blog/2023/09/19/troll-bridge.html",
 				
 				"content_html": "<p>Troll Bridge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Troll Bridge \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/2d3ad07550.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Troll Bridge \n\n<img src=\"uploads/2023/2d3ad07550.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-19T09:04:33-05:00",
 				"url": "https://doug.pub/2023/09/19/troll-bridge.html"
 			},
@@ -2768,7 +2776,7 @@
 				"id": "http://dfj.micro.blog/2023/08/28/computer-nerd-level.html",
 				
 				"content_html": "<p>Computer nerd level up: I successfully terminated Cat 6 ethernet into RJ45 jacks. Turns out, it&rsquo;s not that difficult after watching some youtube videos and buying the right tools.</p>\n<p>Also, electricians did the hard part and ran the ethernet line.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Computer nerd level up: I successfully terminated Cat 6 ethernet into RJ45 jacks. Turns out, it's not that difficult after watching some youtube videos and buying the right tools.\r\n\r\nAlso, electricians did the hard part and ran the ethernet line.\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/eth2.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/9e1782ea6a.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/eth4.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/eth5.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Computer nerd level up: I successfully terminated Cat 6 ethernet into RJ45 jacks. Turns out, it's not that difficult after watching some youtube videos and buying the right tools.\r\n\r\nAlso, electricians did the hard part and ran the ethernet line.\r\n\r\n\n\n<img src=\"uploads/2023/eth2.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/9e1782ea6a.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/eth4.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/eth5.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-28T19:24:53-05:00",
 				"url": "https://doug.pub/2023/08/28/computer-nerd-level.html"
 			},
@@ -2792,7 +2800,7 @@
 				"id": "http://dfj.micro.blog/2023/07/06/fairy-pools-isle.html",
 				
 				"content_html": "<p>Fairy Pools, Isle of Skye, Scotland</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Fairy Pools, Isle of Skye, Scotland\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/064d39cd66.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/2e80d91716.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Fairy Pools, Isle of Skye, Scotland\n\n\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/064d39cd66.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/2e80d91716.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-07-06T08:53:48-05:00",
 				"url": "https://doug.pub/2023/07/06/fairy-pools-isle.html"
 			},
@@ -2800,7 +2808,7 @@
 				"id": "http://dfj.micro.blog/2023/06/07/you-can-really.html",
 				
 				"content_html": "<p>You can really get an incredible perspective of the smoke hanging over the US from the GOES satellite.</p>\n<p>The <a href=\"https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&amp;band=GEOCOLOR&amp;length=24\">animation loops</a> are fascinating too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "You can really get an incredible perspective of the smoke hanging over the US from the GOES satellite.\r\n\r\nThe [animation loops](https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&band=GEOCOLOR&length=24) are fascinating too. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/7ce71de313.jpg\" width=\"600\" height=\"360\" alt=\"GOES satellite view of the continential united states showing smoky air\">\n",
+				"content_text": "You can really get an incredible perspective of the smoke hanging over the US from the GOES satellite.\r\n\r\nThe [animation loops](https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&band=GEOCOLOR&length=24) are fascinating too. \n\n<img src=\"uploads/2023/7ce71de313.jpg\" width=\"600\" height=\"360\" alt=\"GOES satellite view of the continential united states showing smoky air\">\n",
 				"date_published": "2023-06-07T09:48:44-05:00",
 				"url": "https://doug.pub/2023/06/07/you-can-really.html"
 			},
@@ -2816,7 +2824,7 @@
 				"id": "http://dfj.micro.blog/2023/06/04/yesterdays-guided-mountain.html",
 				
 				"content_html": "<p>Yesterday’s guided mountain bike ride around <a href=\"https://www.dupontstaterecreationalforest.com/\">North Carolina’s DuPont State Forest</a> was perhaps one of the most challenging physical activities I’ve done, especially as a beginner on the mountain bike, but also one of the most rewarding!</p>\n<p><a href=\"https://strava.app.link/aEOIwyaVmAb\">Strava</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Yesterday’s guided mountain bike ride around [North Carolina’s DuPont State Forest](https://www.dupontstaterecreationalforest.com/) was perhaps one of the most challenging physical activities I’ve done, especially as a beginner on the mountain bike, but also one of the most rewarding!\n\n[Strava](https://strava.app.link/aEOIwyaVmAb)\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/f42a991e2b.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/35b7fa38e7.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/56c1fd56c8.jpg\" width=\"600\" height=\"405\" alt=\"\">\n",
+				"content_text": "Yesterday’s guided mountain bike ride around [North Carolina’s DuPont State Forest](https://www.dupontstaterecreationalforest.com/) was perhaps one of the most challenging physical activities I’ve done, especially as a beginner on the mountain bike, but also one of the most rewarding!\n\n[Strava](https://strava.app.link/aEOIwyaVmAb)\n\n<img src=\"uploads/2023/f42a991e2b.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/35b7fa38e7.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/56c1fd56c8.jpg\" width=\"600\" height=\"405\" alt=\"\">\n",
 				"date_published": "2023-06-04T18:36:57-05:00",
 				"url": "https://doug.pub/2023/06/04/yesterdays-guided-mountain.html"
 			},
@@ -2824,7 +2832,7 @@
 				"id": "http://dfj.micro.blog/2023/06/03/mount-mitchell-highest.html",
 				
 				"content_html": "<p>Mount Mitchell, highest peak east of the Mississippi.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Mount Mitchell, highest peak east of the Mississippi. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/26d56fa432.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/947893917d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/0e33b5cb8a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/f5477b8d80.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Mount Mitchell, highest peak east of the Mississippi. \n\n\n\n<img src=\"uploads/2023/26d56fa432.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/947893917d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/0e33b5cb8a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/f5477b8d80.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-03T20:42:50-05:00",
 				"url": "https://doug.pub/2023/06/03/mount-mitchell-highest.html"
 			},
@@ -2832,7 +2840,7 @@
 				"id": "http://dfj.micro.blog/2023/06/01/daniel-ridge-falls.html",
 				
 				"content_html": "<p>Daniel Ridge Falls hike</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Daniel Ridge Falls hike\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/bead9a1e45.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/bc80981605.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/0503ccaddc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/daf11fdeee.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Daniel Ridge Falls hike\n\n<img src=\"uploads/2023/bead9a1e45.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/bc80981605.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0503ccaddc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/daf11fdeee.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-01T22:07:41-05:00",
 				"url": "https://doug.pub/2023/06/01/daniel-ridge-falls.html"
 			},
@@ -2840,7 +2848,7 @@
 				"id": "http://dfj.micro.blog/2023/05/31/in-asheville-for.html",
 				
 				"content_html": "<p>In Asheville for the weekend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In Asheville for the weekend\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/3bb5ed7435.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "In Asheville for the weekend\n\n<img src=\"uploads/2023/3bb5ed7435.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-31T20:18:59-05:00",
 				"url": "https://doug.pub/2023/05/31/in-asheville-for.html"
 			},
@@ -2848,7 +2856,7 @@
 				"id": "http://dfj.micro.blog/2023/05/29/mountain-biking-at.html",
 				
 				"content_html": "<p>Mountain biking at Blankets Creek and later a little hike around the Decatur Waterworks.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Mountain biking at Blankets Creek and later a little hike around the Decatur Waterworks. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/6b5e7cbf60.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/a64fc15679.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/0d37b5d5cc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/0ec56df892.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/a44f1a6e9d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Mountain biking at Blankets Creek and later a little hike around the Decatur Waterworks. \n\n\n\n<img src=\"uploads/2023/6b5e7cbf60.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/a64fc15679.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0d37b5d5cc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0ec56df892.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/a44f1a6e9d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-29T16:39:40-05:00",
 				"url": "https://doug.pub/2023/05/29/mountain-biking-at.html"
 			},
@@ -2856,7 +2864,7 @@
 				"id": "http://dfj.micro.blog/2023/05/28/sweetwater-creek-state.html",
 				
 				"content_html": "<p>Sweetwater Creek State Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sweetwater Creek State Park\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/078762624e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sweetwater Creek State Park\n\n<img src=\"uploads/2023/078762624e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-28T17:52:47-05:00",
 				"url": "https://doug.pub/2023/05/28/sweetwater-creek-state.html"
 			},
@@ -2887,8 +2895,8 @@
 			{
 				"id": "http://dfj.micro.blog/2023/05/08/a-few-photos.html",
 				
-				"content_html": "<p>A few photos from a weekend in Charleston, SC.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2023/cf98d1d5c8.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2023/ac0709193b.jpg\" alt=\"\"></p>\n<p>The sunset from Folly Beach.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2023/73102aed11.jpg\" alt=\"\">\nThe “Angel Oak” tree, which is 400 years old and hard to capture in a photo.</p>\n",
-				"content_text": "A few photos from a weekend in Charleston, SC. \n\n![](https://cdn.uploads.micro.blog/1726/2023/cf98d1d5c8.jpg)\n\n![](https://cdn.uploads.micro.blog/1726/2023/ac0709193b.jpg)\n\nThe sunset from Folly Beach. \n\n\n![](https://cdn.uploads.micro.blog/1726/2023/73102aed11.jpg)\nThe “Angel Oak” tree, which is 400 years old and hard to capture in a photo. \n",
+				"content_html": "<p>A few photos from a weekend in Charleston, SC.</p>\n<p><img src=\"https://doug.pub/uploads/2023/cf98d1d5c8.jpg\" alt=\"\"></p>\n<p><img src=\"https://doug.pub/uploads/2023/ac0709193b.jpg\" alt=\"\"></p>\n<p>The sunset from Folly Beach.</p>\n<p><img src=\"https://doug.pub/uploads/2023/73102aed11.jpg\" alt=\"\">\nThe “Angel Oak” tree, which is 400 years old and hard to capture in a photo.</p>\n",
+				"content_text": "A few photos from a weekend in Charleston, SC. \n\n![](https://doug.pub/uploads/2023/cf98d1d5c8.jpg)\n\n![](https://doug.pub/uploads/2023/ac0709193b.jpg)\n\nThe sunset from Folly Beach. \n\n\n![](https://doug.pub/uploads/2023/73102aed11.jpg)\nThe “Angel Oak” tree, which is 400 years old and hard to capture in a photo. \n",
 				"date_published": "2023-05-08T10:49:05-05:00",
 				"url": "https://doug.pub/2023/05/08/a-few-photos.html"
 			},
@@ -2928,7 +2936,7 @@
 				"id": "http://dfj.micro.blog/2023/04/22/happy-earth-day.html",
 				
 				"content_html": "<p>🌎Happy Earth Day🌍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🌎Happy Earth Day🌍\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/e4b36c3356.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/9c6b20f17f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "🌎Happy Earth Day🌍\n\n\n\n<img src=\"uploads/2023/e4b36c3356.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/9c6b20f17f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-22T16:49:35-05:00",
 				"url": "https://doug.pub/2023/04/22/happy-earth-day.html"
 			},
@@ -2936,7 +2944,7 @@
 				"id": "http://dfj.micro.blog/2023/04/15/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780226816531\">The Apple II Age</a> by Laine Nooney 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently reading: [The Apple II Age](https://micro.blog/books/9780226816531) by Laine Nooney 📚\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/2bca3ba70a.jpg\" width=\"450\" height=\"600\" alt=\"The hardcover book &quot;The Apple II Age&quot; standing next to a cup of coffee.\">\n",
+				"content_text": "Currently reading: [The Apple II Age](https://micro.blog/books/9780226816531) by Laine Nooney 📚\r\n\r\n\n\n<img src=\"uploads/2023/2bca3ba70a.jpg\" width=\"450\" height=\"600\" alt=\"The hardcover book &quot;The Apple II Age&quot; standing next to a cup of coffee.\">\n",
 				"date_published": "2023-04-15T09:45:03-05:00",
 				"url": "https://doug.pub/2023/04/15/currently-reading-the.html"
 			},
@@ -2976,7 +2984,7 @@
 				"id": "http://dfj.micro.blog/2023/03/13/day-connection-heres.html",
 				
 				"content_html": "<p>📷 Day 13: Connection</p>\n<p>Here’s the <a href=\"https://en.wikipedia.org/wiki/Connection_Machine\">Connection Machine</a> computer on display at the Computer History Museum. Sadly it was not powered on to see the blinky lights.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 13: Connection\n\nHere’s the [Connection Machine](https://en.wikipedia.org/wiki/Connection_Machine) computer on display at the Computer History Museum. Sadly it was not powered on to see the blinky lights. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/4bc6a1728a.jpg\" width=\"599\" height=\"600\" alt=\"Connection Machine at the Computer History Museum\">\n",
+				"content_text": "📷 Day 13: Connection\n\nHere’s the [Connection Machine](https://en.wikipedia.org/wiki/Connection_Machine) computer on display at the Computer History Museum. Sadly it was not powered on to see the blinky lights. \n\n<img src=\"uploads/2023/4bc6a1728a.jpg\" width=\"599\" height=\"600\" alt=\"Connection Machine at the Computer History Museum\">\n",
 				"date_published": "2023-03-13T16:07:01-05:00",
 				"url": "https://doug.pub/2023/03/13/day-connection-heres.html"
 			},
@@ -2984,7 +2992,7 @@
 				"id": "http://dfj.micro.blog/2023/02/20/hemlock-falls.html",
 				
 				"content_html": "<p>Hemlock Falls</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hemlock Falls\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/b5f71245cf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Hemlock Falls\n\n<img src=\"uploads/2023/b5f71245cf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-20T23:05:19-05:00",
 				"url": "https://doug.pub/2023/02/20/hemlock-falls.html"
 			},
@@ -2992,7 +3000,7 @@
 				"id": "http://dfj.micro.blog/2023/02/13/found-another-chronolog.html",
 				
 				"content_html": "<p>Found another chronolog this weekend on the South Peachtree Creek Path trail: <a href=\"https://www.chronolog.io/site/MMP103\">MMP-103</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Found another chronolog this weekend on the South Peachtree Creek Path trail: [MMP-103](https://www.chronolog.io/site/MMP103) \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/b935ea1312.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/d1d931c29c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Found another chronolog this weekend on the South Peachtree Creek Path trail: [MMP-103](https://www.chronolog.io/site/MMP103) \n\n<img src=\"uploads/2023/b935ea1312.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/d1d931c29c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-13T21:53:10-05:00",
 				"url": "https://doug.pub/2023/02/13/found-another-chronolog.html"
 			},
@@ -3008,7 +3016,7 @@
 				"id": "http://dfj.micro.blog/2023/01/29/views-from-arabia.html",
 				
 				"content_html": "<p>Views from Arabia Mountain, GA.</p>\n<p>The third photo is from a <a href=\"https://www.chronolog.io/site/AMP101\">chronolog station</a>. First time I’ve seen this, it’s a cool idea!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Views from Arabia Mountain, GA. \n\nThe third photo is from a [chronolog station](https://www.chronolog.io/site/AMP101). First time I’ve seen this, it’s a cool idea!\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/10ffb582c6.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/04c5d4a7e3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/985ca2ad58.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2023/caf2d327e9.jpg\" width=\"472\" height=\"600\" alt=\"\">\n",
+				"content_text": "Views from Arabia Mountain, GA. \n\nThe third photo is from a [chronolog station](https://www.chronolog.io/site/AMP101). First time I’ve seen this, it’s a cool idea!\n\n<img src=\"uploads/2023/10ffb582c6.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/04c5d4a7e3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/985ca2ad58.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/caf2d327e9.jpg\" width=\"472\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-29T21:04:55-05:00",
 				"url": "https://doug.pub/2023/01/29/views-from-arabia.html"
 			},
@@ -3016,7 +3024,7 @@
 				"id": "http://dfj.micro.blog/2023/01/21/tina-and-some.html",
 				
 				"content_html": "<p>Tina and some random daffodils we found along the trail.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tina and some random daffodils we found along the trail. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/162b1340f2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tina and some random daffodils we found along the trail. \n\n<img src=\"uploads/2023/162b1340f2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-21T21:30:20-05:00",
 				"url": "https://doug.pub/2023/01/21/tina-and-some.html"
 			},
@@ -3024,7 +3032,7 @@
 				"id": "http://dfj.micro.blog/2023/01/20/httpstapbotscomtweetbot.html",
 				
 				"content_html": "<p>🫡\n<a href=\"https://tapbots.com/tweetbot/\">tapbots.com/tweetbot/</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🫡\n[tapbots.com/tweetbot/](https://tapbots.com/tweetbot/)\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/c00b5038c0.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "🫡\n[tapbots.com/tweetbot/](https://tapbots.com/tweetbot/)\n\n<img src=\"uploads/2023/c00b5038c0.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-20T18:17:40-05:00",
 				"url": "https://doug.pub/2023/01/20/httpstapbotscomtweetbot.html"
 			},
@@ -3032,7 +3040,7 @@
 				"id": "http://dfj.micro.blog/2023/01/14/kermit.html",
 				
 				"content_html": "<p>Kermit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kermit\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/9cc8312d30.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Kermit\n\n<img src=\"uploads/2023/9cc8312d30.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-01-14T18:22:07-05:00",
 				"url": "https://doug.pub/2023/01/14/kermit.html"
 			},
@@ -3047,8 +3055,8 @@
 			{
 				"id": "http://dfj.micro.blog/2023/01/07/been-home-for.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1726/2023/a6e2dfe980.jpg\" alt=\"\">\nBeen home for a few days, but wishing I was back on the beach.</p>\n",
-				"content_text": "![](https://cdn.uploads.micro.blog/1726/2023/a6e2dfe980.jpg)\nBeen home for a few days, but wishing I was back on the beach. \n",
+				"content_html": "<p><img src=\"https://doug.pub/uploads/2023/a6e2dfe980.jpg\" alt=\"\">\nBeen home for a few days, but wishing I was back on the beach.</p>\n",
+				"content_text": "![](https://doug.pub/uploads/2023/a6e2dfe980.jpg)\nBeen home for a few days, but wishing I was back on the beach. \n",
 				"date_published": "2023-01-07T20:34:26-05:00",
 				"url": "https://doug.pub/2023/01/07/been-home-for.html"
 			},
@@ -3072,7 +3080,7 @@
 				"id": "http://dfj.micro.blog/2023/01/02/went-to-the.html",
 				
 				"content_html": "<p>Went to the far end of La Chiva beach today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Went to the far end of La Chiva beach today. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/a471926331.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Went to the far end of La Chiva beach today. \n\n<img src=\"uploads/2023/a471926331.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-02T19:48:18-05:00",
 				"url": "https://doug.pub/2023/01/02/went-to-the.html"
 			},
@@ -3096,7 +3104,7 @@
 				"id": "http://dfj.micro.blog/2022/12/31/malecn-esperanza-vieques.html",
 				
 				"content_html": "<p>Malecón Esperanza, Vieques</p>\n<p>🫡 2022</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Malecón Esperanza, Vieques\n\n🫡 2022\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2023/2ea6fcb5ed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Malecón Esperanza, Vieques\n\n🫡 2022\n\n<img src=\"uploads/2023/2ea6fcb5ed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-31T19:24:56-05:00",
 				"url": "https://doug.pub/2022/12/31/malecn-esperanza-vieques.html"
 			},
@@ -3112,7 +3120,7 @@
 				"id": "http://dfj.micro.blog/2022/12/30/isabel-segunda-vieques.html",
 				
 				"content_html": "<p>Isabel Segunda, Vieques, PR</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Isabel Segunda, Vieques, PR\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/3f84c0ca85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Isabel Segunda, Vieques, PR\n\n<img src=\"uploads/2022/3f84c0ca85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-30T11:43:23-05:00",
 				"url": "https://doug.pub/2022/12/30/isabel-segunda-vieques.html"
 			},
@@ -3120,7 +3128,7 @@
 				"id": "http://dfj.micro.blog/2022/12/28/la-chiva-vieques.html",
 				
 				"content_html": "<p>La Chiva, Vieques, PR</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "La Chiva, Vieques, PR\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/22d3ea0488.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "La Chiva, Vieques, PR\n\n<img src=\"uploads/2022/22d3ea0488.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-28T19:50:25-05:00",
 				"url": "https://doug.pub/2022/12/28/la-chiva-vieques.html"
 			},
@@ -3144,7 +3152,7 @@
 				"id": "http://dfj.micro.blog/2022/12/24/made-braciole-this.html",
 				
 				"content_html": "<p>Made braciole this Christmas Eve. Came out great!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Made braciole this Christmas Eve. Came out great!\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/a3ecb18c54.jpg\" width=\"600\" height=\"480\" alt=\"\">\n",
+				"content_text": "Made braciole this Christmas Eve. Came out great!\n\n<img src=\"uploads/2022/a3ecb18c54.jpg\" width=\"600\" height=\"480\" alt=\"\">\n",
 				"date_published": "2022-12-24T23:23:08-05:00",
 				"url": "https://doug.pub/2022/12/24/made-braciole-this.html"
 			},
@@ -3152,7 +3160,7 @@
 				"id": "http://dfj.micro.blog/2022/12/23/not-so-hotlanta.html",
 				
 				"content_html": "<p>Not so Hotlanta</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not so Hotlanta \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/9485aad853.jpg\" width=\"600\" height=\"291\" alt=\"\">\n",
+				"content_text": "Not so Hotlanta \n\n<img src=\"uploads/2022/9485aad853.jpg\" width=\"600\" height=\"291\" alt=\"\">\n",
 				"date_published": "2022-12-23T21:28:30-05:00",
 				"url": "https://doug.pub/2022/12/23/not-so-hotlanta.html"
 			},
@@ -3160,7 +3168,7 @@
 				"id": "http://dfj.micro.blog/2022/12/22/visiting-savannah-for.html",
 				
 				"content_html": "<p>Visiting Savannah for a few nights.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Visiting Savannah for a few nights. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/5348d55aff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Visiting Savannah for a few nights. \n\n<img src=\"uploads/2022/5348d55aff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-22T17:53:08-05:00",
 				"url": "https://doug.pub/2022/12/22/visiting-savannah-for.html"
 			},
@@ -3168,7 +3176,7 @@
 				"id": "http://dfj.micro.blog/2022/12/17/182220.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/5971af87c4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2022/5971af87c4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-17T18:22:20-05:00",
 				"url": "https://doug.pub/2022/12/17/182220.html"
 			},
@@ -3208,7 +3216,7 @@
 				"id": "http://dfj.micro.blog/2022/12/07/trying-out-a.html",
 				
 				"content_html": "<p>Trying out a few <a href=\"https://adventofcode.com\">Advent of Code</a> problems in Kotlin this year.\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Trying out a few [Advent of Code](https://adventofcode.com) problems in Kotlin this year.\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/6213991ddd.png\" alt=\"UntitledImage\" title=\"UntitledImage.png\" border=\"0\" width=\"599\" height=\"75\" />\n",
+				"content_text": "Trying out a few [Advent of Code](https://adventofcode.com) problems in Kotlin this year.\n<img src=\"uploads/2022/6213991ddd.png\" alt=\"UntitledImage\" title=\"UntitledImage.png\" border=\"0\" width=\"599\" height=\"75\" />\n",
 				"date_published": "2022-12-07T22:16:16-05:00",
 				"url": "https://doug.pub/2022/12/07/trying-out-a.html"
 			},
@@ -3224,7 +3232,7 @@
 				"id": "http://dfj.micro.blog/2022/12/01/some-photos-from.html",
 				
 				"content_html": "<p>Some photos from tonight&rsquo;s dog walk.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Some photos from tonight's dog walk.\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/b7896513c3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2022/2fa88c2f63.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Some photos from tonight's dog walk.\n\n<img src=\"uploads/2022/b7896513c3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/2fa88c2f63.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-01T22:07:29-05:00",
 				"url": "https://doug.pub/2022/12/01/some-photos-from.html"
 			},
@@ -3232,7 +3240,7 @@
 				"id": "http://dfj.micro.blog/2022/11/29/florida-swampland-taken.html",
 				
 				"content_html": "<p>Florida swampland, taken while visiting over Thanksgiving.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Florida swampland, taken while visiting over Thanksgiving.\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/ee289b16e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Florida swampland, taken while visiting over Thanksgiving.\n\n<img src=\"uploads/2022/ee289b16e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-29T23:02:15-05:00",
 				"url": "https://doug.pub/2022/11/29/florida-swampland-taken.html"
 			},
@@ -3240,7 +3248,7 @@
 				"id": "http://dfj.micro.blog/2022/11/29/orion-flying-beyond.html",
 				
 				"content_html": "<p><a href=\"https://www.flickr.com/photos/nasa2explore\">Orion flying beyond the Moon</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Orion flying beyond the Moon](https://www.flickr.com/photos/nasa2explore)\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/80b6ee5858.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "[Orion flying beyond the Moon](https://www.flickr.com/photos/nasa2explore)\r\n\r\n\n\n<img src=\"uploads/2022/80b6ee5858.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-29T10:52:24-05:00",
 				"url": "https://doug.pub/2022/11/29/orion-flying-beyond.html"
 			},
@@ -3256,7 +3264,7 @@
 				"id": "http://dfj.micro.blog/2022/11/20/atl-transportation-nexus.html",
 				
 				"content_html": "<p>ATL transportation nexus</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ATL transportation nexus\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/0a46feb7a4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "ATL transportation nexus\n\n<img src=\"uploads/2022/0a46feb7a4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-20T14:46:43-05:00",
 				"url": "https://doug.pub/2022/11/20/atl-transportation-nexus.html"
 			},
@@ -3272,7 +3280,7 @@
 				"id": "http://dfj.micro.blog/2022/11/16/a-few-photos.html",
 				
 				"content_html": "<p>A few photos from tonight&rsquo;s dog walk.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A few photos from tonight's dog walk.\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/39cfe0f0ca.jpg\" width=\"435\" height=\"600\" alt=\"A view of a street from above, lined with telephone poles leading toward the evening sky filled with afterglow. \"><img src=\"https://cdn.uploads.micro.blog/1726/2022/cf75daf005.jpg\" width=\"450\" height=\"600\" alt=\"A silhouette of trees with afterglow sky in the background. \">\n",
+				"content_text": "A few photos from tonight's dog walk.\r\n\r\n\n\n<img src=\"uploads/2022/39cfe0f0ca.jpg\" width=\"435\" height=\"600\" alt=\"A view of a street from above, lined with telephone poles leading toward the evening sky filled with afterglow. \"><img src=\"uploads/2022/cf75daf005.jpg\" width=\"450\" height=\"600\" alt=\"A silhouette of trees with afterglow sky in the background. \">\n",
 				"date_published": "2022-11-16T18:57:47-05:00",
 				"url": "https://doug.pub/2022/11/16/a-few-photos.html"
 			},
@@ -3280,7 +3288,7 @@
 				"id": "http://dfj.micro.blog/2022/10/28/the-pillars-of.html",
 				
 				"content_html": "<p>The Pillars of Creation from the James Webb Space Telescope</p>\n<p><a href=\"https://www.nasa.gov/feature/goddard/2022/haunting-portrait-nasa-s-webb-reveals-dust-structure-in-pillars-of-creation\">www.nasa.gov/feature/g&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Pillars of Creation from the James Webb Space Telescope\r\n\r\n[www.nasa.gov/feature/g...](https://www.nasa.gov/feature/goddard/2022/haunting-portrait-nasa-s-webb-reveals-dust-structure-in-pillars-of-creation)\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/d5d92b62e1.png\" width=\"600\" height=\"548\" alt=\"\">\n",
+				"content_text": "The Pillars of Creation from the James Webb Space Telescope\r\n\r\n[www.nasa.gov/feature/g...](https://www.nasa.gov/feature/goddard/2022/haunting-portrait-nasa-s-webb-reveals-dust-structure-in-pillars-of-creation)\n\n<img src=\"uploads/2022/d5d92b62e1.png\" width=\"600\" height=\"548\" alt=\"\">\n",
 				"date_published": "2022-10-28T16:08:25-05:00",
 				"url": "https://doug.pub/2022/10/28/the-pillars-of.html"
 			},
@@ -3296,7 +3304,7 @@
 				"id": "http://dfj.micro.blog/2022/10/13/a-day-in.html",
 				
 				"content_html": "<p>A Day in the Life</p>\n<p>October 13, 2022 6:48pm</p>\n<p>EWR — Newark International Airport</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A Day in the Life\n\nOctober 13, 2022 6:48pm\n\nEWR — Newark International Airport\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/5f31080957.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "A Day in the Life\n\nOctober 13, 2022 6:48pm\n\nEWR — Newark International Airport\n\n\n\n<img src=\"uploads/2022/5f31080957.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-13T18:04:37-05:00",
 				"url": "https://doug.pub/2022/10/13/a-day-in.html"
 			},
@@ -3304,7 +3312,7 @@
 				"id": "http://dfj.micro.blog/2022/07/25/lake-michigan.html",
 				
 				"content_html": "<p>Lake Michigan</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lake Michigan\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/5759a8a884.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Lake Michigan\n\n<img src=\"uploads/2022/5759a8a884.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-25T21:49:35-05:00",
 				"url": "https://doug.pub/2022/07/25/lake-michigan.html"
 			},
@@ -3312,7 +3320,7 @@
 				"id": "http://dfj.micro.blog/2022/06/15/rip-ie.html",
 				"title": "RIP IE",
 				"content_html": "<p><a href=\"https://www.nytimes.com/2022/06/15/business/internet-explorer-shutting-down.html\">Rest in peace, Internet Explorer!</a></p>\n<p><a href=\"https://oldweb.today/?browser=ie4-mac#http://www.frogfind.com/read.php?a=https://doug.pub/2022/06/15/rip-ie.html\">May you live on in our emulators!</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Rest in peace, Internet Explorer!](https://www.nytimes.com/2022/06/15/business/internet-explorer-shutting-down.html)\n\n[May you live on in our emulators!](https://oldweb.today/?browser=ie4-mac#http://www.frogfind.com/read.php?a=https://doug.pub/2022/06/15/rip-ie.html)\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/937779dfef.png\" width=\"600\" height=\"422\" alt=\"IE running on a Mac OS emulator\" />\n",
+				"content_text": "[Rest in peace, Internet Explorer!](https://www.nytimes.com/2022/06/15/business/internet-explorer-shutting-down.html)\n\n[May you live on in our emulators!](https://oldweb.today/?browser=ie4-mac#http://www.frogfind.com/read.php?a=https://doug.pub/2022/06/15/rip-ie.html)\n\n<img src=\"uploads/2022/937779dfef.png\" width=\"600\" height=\"422\" alt=\"IE running on a Mac OS emulator\" />\n",
 				"date_published": "2022-06-15T19:47:49-05:00",
 				"url": "https://doug.pub/2022/06/15/rip-ie.html"
 			},
@@ -3320,23 +3328,23 @@
 				"id": "http://dfj.micro.blog/2022/05/15/day-clouds.html",
 				
 				"content_html": "<p>Day 15 📷: clouds</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 15 📷: clouds\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/ba23839ec6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Day 15 📷: clouds\n\n\n\n<img src=\"uploads/2022/ba23839ec6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-15T15:19:49-05:00",
 				"url": "https://doug.pub/2022/05/15/day-clouds.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2022/05/13/microblog-may-photoblogging.html",
 				
-				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 13 📷: community</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2022/0c634e9315.jpg\" alt=\"\"></p>\n<p>The Kubernetes community at Kubecon 2019 in San Diego.</p>\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 13 📷: community\n\n![](https://cdn.uploads.micro.blog/1726/2022/0c634e9315.jpg)\n\nThe Kubernetes community at Kubecon 2019 in San Diego. \n",
+				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 13 📷: community</p>\n<p><img src=\"https://doug.pub/uploads/2022/0c634e9315.jpg\" alt=\"\"></p>\n<p>The Kubernetes community at Kubecon 2019 in San Diego.</p>\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 13 📷: community\n\n![](https://doug.pub/uploads/2022/0c634e9315.jpg)\n\nThe Kubernetes community at Kubecon 2019 in San Diego. \n",
 				"date_published": "2022-05-13T07:46:29-05:00",
 				"url": "https://doug.pub/2022/05/13/microblog-may-photoblogging.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2022/05/12/microblog-may-photoblogging.html",
 				
-				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 12 📷: tranquility</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2022/73033dac3d.jpg\" alt=\"\"></p>\n<p>This is what the view would have been like when Apollo 11 set down and established Tranquility Base.</p>\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 12 📷: tranquility\n\n![](https://cdn.uploads.micro.blog/1726/2022/73033dac3d.jpg)\n\nThis is what the view would have been like when Apollo 11 set down and established Tranquility Base. \n",
+				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 12 📷: tranquility</p>\n<p><img src=\"https://doug.pub/uploads/2022/73033dac3d.jpg\" alt=\"\"></p>\n<p>This is what the view would have been like when Apollo 11 set down and established Tranquility Base.</p>\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 12 📷: tranquility\n\n![](https://doug.pub/uploads/2022/73033dac3d.jpg)\n\nThis is what the view would have been like when Apollo 11 set down and established Tranquility Base. \n",
 				"date_published": "2022-05-12T07:00:27-05:00",
 				"url": "https://doug.pub/2022/05/12/microblog-may-photoblogging.html"
 			},
@@ -3344,15 +3352,15 @@
 				"id": "http://dfj.micro.blog/2022/05/11/microblog-may-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 11 📷: maroon</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 11 📷: maroon\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/455bbee8c3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 11 📷: maroon\n\n\n\n<img src=\"uploads/2022/455bbee8c3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-11T19:02:04-05:00",
 				"url": "https://doug.pub/2022/05/11/microblog-may-photoblogging.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2022/05/10/microblog-may-photoblogging.html",
 				
-				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 10 📷: pot</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2022/7011ed0c72.jpg\" alt=\"\"></p>\n<p>These pots of lettuce were served as a cut your own salad at this restaurant.</p>\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 10 📷: pot\n\n![](https://cdn.uploads.micro.blog/1726/2022/7011ed0c72.jpg)\n\nThese pots of lettuce were served as a cut your own salad at this restaurant. \n",
+				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 10 📷: pot</p>\n<p><img src=\"https://doug.pub/uploads/2022/7011ed0c72.jpg\" alt=\"\"></p>\n<p>These pots of lettuce were served as a cut your own salad at this restaurant.</p>\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 10 📷: pot\n\n![](https://doug.pub/uploads/2022/7011ed0c72.jpg)\n\nThese pots of lettuce were served as a cut your own salad at this restaurant. \n",
 				"date_published": "2022-05-10T07:46:14-05:00",
 				"url": "https://doug.pub/2022/05/10/microblog-may-photoblogging.html"
 			},
@@ -3360,15 +3368,15 @@
 				"id": "http://dfj.micro.blog/2022/05/09/microblog-may-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 9 📷: bloom</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge\n\nDay 9 📷: bloom\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/4fd4225a55.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge\n\nDay 9 📷: bloom\n\n\n\n<img src=\"uploads/2022/4fd4225a55.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-09T07:10:18-05:00",
 				"url": "https://doug.pub/2022/05/09/microblog-may-photoblogging.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2022/05/08/microblog-may-photoblogging.html",
 				
-				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 8 📷: union</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2022/37ea2dd1e7.jpg\" alt=\"Interior of a car stopped at a railroad crossing for a Union Pacific train\"></p>\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 8 📷: union\n\n![Interior of a car stopped at a railroad crossing for a Union Pacific train](https://cdn.uploads.micro.blog/1726/2022/37ea2dd1e7.jpg)\n\n",
+				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 8 📷: union</p>\n<p><img src=\"https://doug.pub/uploads/2022/37ea2dd1e7.jpg\" alt=\"Interior of a car stopped at a railroad crossing for a Union Pacific train\"></p>\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 8 📷: union\n\n![Interior of a car stopped at a railroad crossing for a Union Pacific train](https://doug.pub/uploads/2022/37ea2dd1e7.jpg)\n\n",
 				"date_published": "2022-05-08T11:22:01-05:00",
 				"url": "https://doug.pub/2022/05/08/microblog-may-photoblogging.html"
 			},
@@ -3376,7 +3384,7 @@
 				"id": "http://dfj.micro.blog/2022/05/07/microblog-may-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 7 📷: park</p>\n<p>I’m remembering last year when all the parks in central and south Ohio were filled with 17 year cicadas.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 7 📷: park\n\nI’m remembering last year when all the parks in central and south Ohio were filled with 17 year cicadas. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/3f198eeb4e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 7 📷: park\n\nI’m remembering last year when all the parks in central and south Ohio were filled with 17 year cicadas. \n\n<img src=\"uploads/2022/3f198eeb4e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-07T07:19:28-05:00",
 				"url": "https://doug.pub/2022/05/07/microblog-may-photoblogging.html"
 			},
@@ -3384,7 +3392,7 @@
 				"id": "http://dfj.micro.blog/2022/05/06/microblog-may-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 6 📷: silhouette</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 6 📷: silhouette\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/202dbcb7a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 6 📷: silhouette\n\n\n\n<img src=\"uploads/2022/202dbcb7a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-06T18:56:13-05:00",
 				"url": "https://doug.pub/2022/05/06/microblog-may-photoblogging.html"
 			},
@@ -3392,7 +3400,7 @@
 				"id": "http://dfj.micro.blog/2022/05/05/microblog-may-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 5 📷: Earth</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 5 📷: Earth\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/ede1485a72.jpg\" width=\"600\" height=\"314\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 5 📷: Earth\n\n\n\n<img src=\"uploads/2022/ede1485a72.jpg\" width=\"600\" height=\"314\" alt=\"\" />\n",
 				"date_published": "2022-05-05T20:15:16-05:00",
 				"url": "https://doug.pub/2022/05/05/microblog-may-photoblogging.html"
 			},
@@ -3400,15 +3408,15 @@
 				"id": "http://dfj.micro.blog/2022/05/04/microblog-may-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge Day 4 📷: thorny</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge Day 4 📷: thorny\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/0da106a244.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge Day 4 📷: thorny\n\n\n\n<img src=\"uploads/2022/0da106a244.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T08:09:18-05:00",
 				"url": "https://doug.pub/2022/05/04/microblog-may-photoblogging.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2022/05/03/microblog-may-photoblogging.html",
 				
-				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 3 📷: experimental</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1726/2022/380980aa52.jpg\" alt=\"Adafruit wireless circuit boards and external battery packs\"></p>\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 3 📷: experimental\n\n![Adafruit wireless circuit boards and external battery packs](https://cdn.uploads.micro.blog/1726/2022/380980aa52.jpg)\n",
+				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge</p>\n<p>Day 3 📷: experimental</p>\n<p><img src=\"https://doug.pub/uploads/2022/380980aa52.jpg\" alt=\"Adafruit wireless circuit boards and external battery packs\"></p>\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge \n\nDay 3 📷: experimental\n\n![Adafruit wireless circuit boards and external battery packs](https://doug.pub/uploads/2022/380980aa52.jpg)\n",
 				"date_published": "2022-05-03T12:29:39-05:00",
 				"url": "https://doug.pub/2022/05/03/microblog-may-photoblogging.html"
 			},
@@ -3416,7 +3424,7 @@
 				"id": "http://dfj.micro.blog/2022/05/02/120955.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge Day 2 📷: photo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge Day 2 📷: photo\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/5502eebe65.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge Day 2 📷: photo\n\n\n\n<img src=\"uploads/2022/5502eebe65.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-02T11:09:55-05:00",
 				"url": "https://doug.pub/2022/05/02/120955.html"
 			},
@@ -3424,7 +3432,7 @@
 				"id": "http://dfj.micro.blog/2022/05/02/microblog-may-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog May 2022 Photoblogging Challenge Day 1 📷: switch</p>\n<p>Imagine programming this computer through switches!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog May 2022 Photoblogging Challenge Day 1 📷: switch\n\nImagine programming this computer through switches!\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/6fb63221cd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog May 2022 Photoblogging Challenge Day 1 📷: switch\n\nImagine programming this computer through switches!\n\n<img src=\"uploads/2022/6fb63221cd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-02T11:08:59-05:00",
 				"url": "https://doug.pub/2022/05/02/microblog-may-photoblogging.html"
 			},
@@ -3432,7 +3440,7 @@
 				"id": "http://dfj.micro.blog/2022/04/27/a-few-photos.html",
 				
 				"content_html": "<p>A few photos from Atlanta parks from this past weekend.</p>\n<p>First two are Westside Reservoir Park and second two are Grant Park.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A few photos from Atlanta parks from this past weekend. \n\nFirst two are Westside Reservoir Park and second two are Grant Park. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/eddf48c665.jpg\" width=\"600\" height=\"306\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/1726/2022/5905289685.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/1726/2022/f62fe0c093.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/1726/2022/7f01be992f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A few photos from Atlanta parks from this past weekend. \n\nFirst two are Westside Reservoir Park and second two are Grant Park. \n\n<img src=\"uploads/2022/eddf48c665.jpg\" width=\"600\" height=\"306\" alt=\"\" /><img src=\"uploads/2022/5905289685.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/f62fe0c093.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7f01be992f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T20:29:28-05:00",
 				"url": "https://doug.pub/2022/04/27/a-few-photos.html"
 			},
@@ -3448,7 +3456,7 @@
 				"id": "http://dfj.micro.blog/2022/04/22/happy-day.html",
 				
 				"content_html": "<p>Happy 🌎🌍🌏 Day!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy 🌎🌍🌏 Day!\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/d2e43fd3f9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Happy 🌎🌍🌏 Day!\n\n<img src=\"uploads/2022/d2e43fd3f9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-22T20:01:53-05:00",
 				"url": "https://doug.pub/2022/04/22/happy-day.html"
 			},
@@ -3472,7 +3480,7 @@
 				"id": "http://dfj.micro.blog/2022/04/19/095731.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2022/e3c8903786.jpg\" width=\"359\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/e3c8903786.jpg\" width=\"359\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-19T08:57:31-05:00",
 				"url": "https://doug.pub/2022/04/19/095731.html"
 			},
@@ -3480,7 +3488,7 @@
 				"id": "http://dfj.micro.blog/2022/04/17/sweetwater-creek-looking.html",
 				
 				"content_html": "<p>Sweetwater Creek looking not so sweet today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sweetwater Creek looking not so sweet today. \n\n<img src=\"https://dfj.micro.blog/uploads/2022/856f2c39c0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Sweetwater Creek looking not so sweet today. \n\n<img src=\"uploads/2022/856f2c39c0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-17T19:31:24-05:00",
 				"url": "https://doug.pub/2022/04/17/sweetwater-creek-looking.html"
 			},
@@ -3488,7 +3496,7 @@
 				"id": "http://dfj.micro.blog/2022/04/05/203115.html",
 				
 				"content_html": "<p>33—19</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "33—19\n\n<img src=\"https://dfj.micro.blog/uploads/2022/f9bba2b557.jpg\" width=\"556\" height=\"600\" alt=\"\" />\n",
+				"content_text": "33—19\n\n<img src=\"uploads/2022/f9bba2b557.jpg\" width=\"556\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-05T19:31:15-05:00",
 				"url": "https://doug.pub/2022/04/05/203115.html"
 			},
@@ -3496,7 +3504,7 @@
 				"id": "http://dfj.micro.blog/2022/03/27/dr-and-mrs.html",
 				
 				"content_html": "<p>Dr. and Mrs. King’s Crypt</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dr. and Mrs. King’s Crypt\n\n<img src=\"https://dfj.micro.blog/uploads/2022/88c88c4d09.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Dr. and Mrs. King’s Crypt\n\n<img src=\"uploads/2022/88c88c4d09.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-27T13:00:55-05:00",
 				"url": "https://doug.pub/2022/03/27/dr-and-mrs.html"
 			},
@@ -3504,7 +3512,7 @@
 				"id": "http://dfj.micro.blog/2022/03/24/happy-st-birthday.html",
 				
 				"content_html": "<p>Happy 21st Birthday, Mac OS X 10.0!</p>\n<p>I&rsquo;ve written about exploring the history of Mac OS X through emulation here: <a href=\"https://dougie.space/blog/tag/emulating-mac-os-x\">dougie.space/blog/tag/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy 21st Birthday, Mac OS X 10.0!\r\n\r\nI've written about exploring the history of Mac OS X through emulation here: [dougie.space/blog/tag/...](https://dougie.space/blog/tag/emulating-mac-os-x)\n\n<img src=\"https://dfj.micro.blog/uploads/2022/ba3a635173.jpg\" width=\"600\" height=\"464\" alt=\"A screenshot of Mac OS X 10.0 running in an emulator\" />\n",
+				"content_text": "Happy 21st Birthday, Mac OS X 10.0!\r\n\r\nI've written about exploring the history of Mac OS X through emulation here: [dougie.space/blog/tag/...](https://dougie.space/blog/tag/emulating-mac-os-x)\n\n<img src=\"uploads/2022/ba3a635173.jpg\" width=\"600\" height=\"464\" alt=\"A screenshot of Mac OS X 10.0 running in an emulator\" />\n",
 				"date_published": "2022-03-24T16:39:32-05:00",
 				"url": "https://doug.pub/2022/03/24/happy-st-birthday.html"
 			},
@@ -3512,7 +3520,7 @@
 				"id": "http://dfj.micro.blog/2022/03/18/moody-atl-morning.html",
 				
 				"content_html": "<p>Moody ATL morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Moody ATL morning\n\n<img src=\"https://dfj.micro.blog/uploads/2022/1ae8a9f7d4.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "Moody ATL morning\n\n<img src=\"uploads/2022/1ae8a9f7d4.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-03-18T19:45:26-05:00",
 				"url": "https://doug.pub/2022/03/18/moody-atl-morning.html"
 			},
@@ -3520,7 +3528,7 @@
 				"id": "http://dfj.micro.blog/2022/03/15/captiva-island-florida.html",
 				
 				"content_html": "<p>Captiva Island, Florida</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Captiva Island, Florida\n\n<img src=\"https://dfj.micro.blog/uploads/2022/38a5f1da5d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Captiva Island, Florida\n\n<img src=\"uploads/2022/38a5f1da5d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-15T18:57:37-05:00",
 				"url": "https://doug.pub/2022/03/15/captiva-island-florida.html"
 			},
@@ -3528,7 +3536,7 @@
 				"id": "http://dfj.micro.blog/2022/02/01/the-race-to.html",
 				
 				"content_html": "<p><a href=\"https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/\">The race to reconnect Tonga</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[The race to reconnect Tonga](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/)\r\n\r\n\n\n<img src=\"https://dfj.micro.blog/uploads/2022/f852dfd032.png\" width=\"572\" height=\"600\" alt=\"A map of undersea cables in the region of Tonga\" />\n",
+				"content_text": "[The race to reconnect Tonga](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/)\r\n\r\n\n\n<img src=\"uploads/2022/f852dfd032.png\" width=\"572\" height=\"600\" alt=\"A map of undersea cables in the region of Tonga\" />\n",
 				"date_published": "2022-02-01T11:05:59-05:00",
 				"url": "https://doug.pub/2022/02/01/the-race-to.html"
 			},
@@ -3544,7 +3552,7 @@
 				"id": "http://dfj.micro.blog/2022/01/15/150348.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2022/47537fe8fa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/47537fe8fa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-15T15:03:48-05:00",
 				"url": "https://doug.pub/2022/01/15/150348.html"
 			},
@@ -3552,7 +3560,7 @@
 				"id": "http://dfj.micro.blog/2022/01/01/230756.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2022/6c46fd5295.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/6c46fd5295.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-01T23:07:56-05:00",
 				"url": "https://doug.pub/2022/01/01/230756.html"
 			},
@@ -3568,7 +3576,7 @@
 				"id": "http://dfj.micro.blog/2021/11/06/chomp-and-stomp.html",
 				
 				"content_html": "<p>Chomp and Stomp turns out to be a popular event. The chili was good!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chomp and Stomp turns out to be a popular event. The chili was good!\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/cb3e0e5ebf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Chomp and Stomp turns out to be a popular event. The chili was good!\n\n\n\n<img src=\"uploads/2021/cb3e0e5ebf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-06T13:36:53-05:00",
 				"url": "https://doug.pub/2021/11/06/chomp-and-stomp.html"
 			},
@@ -3584,7 +3592,7 @@
 				"id": "http://dfj.micro.blog/2021/10/31/halloween-hike.html",
 				
 				"content_html": "<p>Halloween hike 🎃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Halloween hike 🎃\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c0311b688d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/de135e380e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/68ebfa9567.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/1a6c42cd6c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Halloween hike 🎃\n\n<img src=\"uploads/2021/c0311b688d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/de135e380e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/68ebfa9567.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/1a6c42cd6c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T22:00:18-05:00",
 				"url": "https://doug.pub/2021/10/31/halloween-hike.html"
 			},
@@ -3600,7 +3608,7 @@
 				"id": "http://dfj.micro.blog/2021/10/30/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 30 📷: <strong>red</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 30 📷: **red** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/e24618d647.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 30 📷: **red** \n\n\n\n<img src=\"uploads/2021/e24618d647.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-30T07:52:23-05:00",
 				"url": "https://doug.pub/2021/10/30/microblog-october-photoblogging.html"
 			},
@@ -3608,7 +3616,7 @@
 				"id": "http://dfj.micro.blog/2021/10/29/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 29 📷: <strong>cycle</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 29 📷: **cycle** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f4a3e0370e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 29 📷: **cycle** \n\n\n\n<img src=\"uploads/2021/f4a3e0370e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-29T08:08:28-05:00",
 				"url": "https://doug.pub/2021/10/29/microblog-october-photoblogging.html"
 			},
@@ -3616,7 +3624,7 @@
 				"id": "http://dfj.micro.blog/2021/10/28/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 28 📷: <strong>underneath</strong></p>\n<p>One of the incredible things you can experience while visiting the \nKennedy Space Center is walking <strong>underneath</strong> a Saturn V rocket.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 28 📷: **underneath**\r\n\r\nOne of the incredible things you can experience while visiting the \r\nKennedy Space Center is walking **underneath** a Saturn V rocket. \n\n<img src=\"https://dfj.micro.blog/uploads/2021/86e1bcfa5e.jpg\" width=\"450\" height=\"600\" alt=\"Underneath the nose of a Saturn V rocket at Kennedy Space Center. \" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 28 📷: **underneath**\r\n\r\nOne of the incredible things you can experience while visiting the \r\nKennedy Space Center is walking **underneath** a Saturn V rocket. \n\n<img src=\"uploads/2021/86e1bcfa5e.jpg\" width=\"450\" height=\"600\" alt=\"Underneath the nose of a Saturn V rocket at Kennedy Space Center. \" />\n",
 				"date_published": "2021-10-28T10:51:19-05:00",
 				"url": "https://doug.pub/2021/10/28/microblog-october-photoblogging.html"
 			},
@@ -3632,7 +3640,7 @@
 				"id": "http://dfj.micro.blog/2021/10/26/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 26 📷: <strong>bliss</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 26 📷: **bliss** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b3eb38397b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 26 📷: **bliss** \n\n\n\n<img src=\"uploads/2021/b3eb38397b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-26T06:24:57-05:00",
 				"url": "https://doug.pub/2021/10/26/microblog-october-photoblogging.html"
 			},
@@ -3664,7 +3672,7 @@
 				"id": "http://dfj.micro.blog/2021/10/22/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/e6dcd59576.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest\n\n\n\n<img src=\"uploads/2021/e6dcd59576.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-22T07:13:04-05:00",
 				"url": "https://doug.pub/2021/10/22/microblog-october-photoblogging.html"
 			},
@@ -3672,7 +3680,7 @@
 				"id": "http://dfj.micro.blog/2021/10/21/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/37afc8c637.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space\n\n\n\n<img src=\"uploads/2021/37afc8c637.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-21T07:45:56-05:00",
 				"url": "https://doug.pub/2021/10/21/microblog-october-photoblogging.html"
 			},
@@ -3680,7 +3688,7 @@
 				"id": "http://dfj.micro.blog/2021/10/20/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/a627eb8478.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports\n\n\n\n<img src=\"uploads/2021/a627eb8478.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-20T07:00:18-05:00",
 				"url": "https://doug.pub/2021/10/20/microblog-october-photoblogging.html"
 			},
@@ -3688,7 +3696,7 @@
 				"id": "http://dfj.micro.blog/2021/10/19/211341.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2021/a1f2a3445d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/a1f2a3445d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-19T20:13:41-05:00",
 				"url": "https://doug.pub/2021/10/19/211341.html"
 			},
@@ -3704,7 +3712,7 @@
 				"id": "http://dfj.micro.blog/2021/10/18/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/77b8989df7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished\n\n\n\n<img src=\"uploads/2021/77b8989df7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-18T08:12:30-05:00",
 				"url": "https://doug.pub/2021/10/18/microblog-october-photoblogging.html"
 			},
@@ -3712,7 +3720,7 @@
 				"id": "http://dfj.micro.blog/2021/10/17/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass\r\n\r\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/78fe1068bb.png\" width=\"600\" height=\"526\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass\r\n\r\n\n\n<img src=\"uploads/2021/78fe1068bb.png\" width=\"600\" height=\"526\" alt=\"\" />\n",
 				"date_published": "2021-10-17T12:09:52-05:00",
 				"url": "https://doug.pub/2021/10/17/microblog-october-photoblogging.html"
 			},
@@ -3720,7 +3728,7 @@
 				"id": "http://dfj.micro.blog/2021/10/16/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f50e3fcc35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation\n\n\n\n<img src=\"uploads/2021/f50e3fcc35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-16T09:01:31-05:00",
 				"url": "https://doug.pub/2021/10/16/microblog-october-photoblogging.html"
 			},
@@ -3728,7 +3736,7 @@
 				"id": "http://dfj.micro.blog/2021/10/15/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/23009b888d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal\n\n\n\n<img src=\"uploads/2021/23009b888d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-15T07:57:01-05:00",
 				"url": "https://doug.pub/2021/10/15/microblog-october-photoblogging.html"
 			},
@@ -3736,7 +3744,7 @@
 				"id": "http://dfj.micro.blog/2021/10/14/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f42925e0c0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels\n\n\n\n<img src=\"uploads/2021/f42925e0c0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-14T06:49:16-05:00",
 				"url": "https://doug.pub/2021/10/14/microblog-october-photoblogging.html"
 			},
@@ -3744,7 +3752,7 @@
 				"id": "http://dfj.micro.blog/2021/10/13/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/348249ac18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals\n\n\n\n<img src=\"uploads/2021/348249ac18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-10-13T07:22:32-05:00",
 				"url": "https://doug.pub/2021/10/13/microblog-october-photoblogging.html"
 			},
@@ -3752,7 +3760,7 @@
 				"id": "http://dfj.micro.blog/2021/10/12/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c933027e8e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend\n\n\n\n<img src=\"uploads/2021/c933027e8e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-12T07:00:30-05:00",
 				"url": "https://doug.pub/2021/10/12/microblog-october-photoblogging.html"
 			},
@@ -3760,7 +3768,7 @@
 				"id": "http://dfj.micro.blog/2021/10/11/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/1c93ebd2c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge\n\n\n\n<img src=\"uploads/2021/1c93ebd2c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-11T07:31:26-05:00",
 				"url": "https://doug.pub/2021/10/11/microblog-october-photoblogging.html"
 			},
@@ -3768,7 +3776,7 @@
 				"id": "http://dfj.micro.blog/2021/10/10/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b990189e42.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges\n\n\n\n<img src=\"uploads/2021/b990189e42.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-10T08:55:58-05:00",
 				"url": "https://doug.pub/2021/10/10/microblog-october-photoblogging.html"
 			},
@@ -3784,7 +3792,7 @@
 				"id": "http://dfj.micro.blog/2021/10/08/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/fe2bb60541.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight\n\n\n\n<img src=\"uploads/2021/fe2bb60541.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-08T07:21:17-05:00",
 				"url": "https://doug.pub/2021/10/08/microblog-october-photoblogging.html"
 			},
@@ -3792,7 +3800,7 @@
 				"id": "http://dfj.micro.blog/2021/10/07/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/672c4800ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice\n\n\n\n<img src=\"uploads/2021/672c4800ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-07T07:23:38-05:00",
 				"url": "https://doug.pub/2021/10/07/microblog-october-photoblogging.html"
 			},
@@ -3800,7 +3808,7 @@
 				"id": "http://dfj.micro.blog/2021/10/06/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/3d992617bb.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street\n\n\n\n<img src=\"uploads/2021/3d992617bb.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
 				"date_published": "2021-10-06T07:26:34-05:00",
 				"url": "https://doug.pub/2021/10/06/microblog-october-photoblogging.html"
 			},
@@ -3808,7 +3816,7 @@
 				"id": "http://dfj.micro.blog/2021/10/05/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/412d80c92f.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy\n\n\n\n<img src=\"uploads/2021/412d80c92f.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
 				"date_published": "2021-10-05T07:14:34-05:00",
 				"url": "https://doug.pub/2021/10/05/microblog-october-photoblogging.html"
 			},
@@ -3816,7 +3824,7 @@
 				"id": "http://dfj.micro.blog/2021/10/04/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/094b257b51.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp\n\n\n\n<img src=\"uploads/2021/094b257b51.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-04T07:07:41-05:00",
 				"url": "https://doug.pub/2021/10/04/microblog-october-photoblogging.html"
 			},
@@ -3824,7 +3832,7 @@
 				"id": "http://dfj.micro.blog/2021/10/03/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b241e3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority\n\n\n\n<img src=\"uploads/2021/b241e3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-03T08:07:29-05:00",
 				"url": "https://doug.pub/2021/10/03/microblog-october-photoblogging.html"
 			},
@@ -3832,7 +3840,7 @@
 				"id": "http://dfj.micro.blog/2021/10/02/microblog-october-photo.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photo Challenge day 2 📷: dark</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photo Challenge day 2 📷: dark\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/967f9b6a60.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photo Challenge day 2 📷: dark\n\n\n\n<img src=\"uploads/2021/967f9b6a60.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-02T10:47:13-05:00",
 				"url": "https://doug.pub/2021/10/02/microblog-october-photo.html"
 			},
@@ -3840,7 +3848,7 @@
 				"id": "http://dfj.micro.blog/2021/10/01/day-touchmicroblog-october.html",
 				
 				"content_html": "<p>📷 Day 1: Touch\nmicro.blog October photoblogging challenge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 1: Touch\nmicro.blog October photoblogging challenge\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c9db04e0c0.png\" width=\"338\" height=\"600\" alt=\"\" />\n",
+				"content_text": "📷 Day 1: Touch\nmicro.blog October photoblogging challenge\n\n<img src=\"uploads/2021/c9db04e0c0.png\" width=\"338\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-01T07:16:25-05:00",
 				"url": "https://doug.pub/2021/10/01/day-touchmicroblog-october.html"
 			},
@@ -3848,7 +3856,7 @@
 				"id": "http://dfj.micro.blog/2021/09/22/now-in-atlanta.html",
 				"title": "Now in Atlanta!",
 				"content_html": "<p>In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here.</p>\n<p>Here’s a photo from the new neighborhood.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here. \n\nHere’s a photo from the new neighborhood. \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/09f9924949.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"content_text": "In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here. \n\nHere’s a photo from the new neighborhood. \n\n\n\n<img src=\"uploads/2021/09f9924949.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-22T16:58:53-05:00",
 				"url": "https://doug.pub/2021/09/22/now-in-atlanta.html"
 			},
@@ -3912,7 +3920,7 @@
 				"id": "http://dfj.micro.blog/2021/06/05/brood-x-is.html",
 				
 				"content_html": "<p>Brood X is here!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Brood X is here!\n\n<img src=\"https://dfj.micro.blog/uploads/2021/03ad0e6050.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/5c2f23adf0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Brood X is here!\n\n<img src=\"uploads/2021/03ad0e6050.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5c2f23adf0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-05T11:55:00-05:00",
 				"url": "https://doug.pub/2021/06/05/brood-x-is.html"
 			},
@@ -3920,7 +3928,7 @@
 				"id": "http://dfj.micro.blog/2021/05/30/new-day-happy.html",
 				
 				"content_html": "<p>New 🚵‍♂️ day!</p>\n<p>Happy to be getting into mountain biking. First ride was great!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "New 🚵‍♂️ day!\n\nHappy to be getting into mountain biking. First ride was great!\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/554dba8cb9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/06648dd9ab.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/76c8170f46.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "New 🚵‍♂️ day!\n\nHappy to be getting into mountain biking. First ride was great!\n\n\n\n<img src=\"uploads/2021/554dba8cb9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/06648dd9ab.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/76c8170f46.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-30T14:56:50-05:00",
 				"url": "https://doug.pub/2021/05/30/new-day-happy.html"
 			},
@@ -3936,7 +3944,7 @@
 				"id": "http://dfj.micro.blog/2021/05/22/spotted-the-first.html",
 				
 				"content_html": "<p>Spotted the first one of Brood X! Not the healthiest specimen, but still exciting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spotted the first one of Brood X! Not the healthiest specimen, but still exciting. \n\n<img src=\"https://dfj.micro.blog/uploads/2021/22f5d4189b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Spotted the first one of Brood X! Not the healthiest specimen, but still exciting. \n\n<img src=\"uploads/2021/22f5d4189b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-22T19:37:01-05:00",
 				"url": "https://doug.pub/2021/05/22/spotted-the-first.html"
 			},
@@ -3960,7 +3968,7 @@
 				"id": "http://dfj.micro.blog/2021/05/09/rereading-aqua-and.html",
 				
 				"content_html": "<p>Re-reading <a href=\"https://512pixels.net/aqua-and-bondi/\">Aqua and Bondi</a> by Stephen Hackett <a href=\"https://micro.blog/512px\">@512px</a>. This book covers Apple&rsquo;s development of the first iMac as well as Mac OS X and felt like the right next step after reliving the <a href=\"https://dougie.space/micro/emulating-mac-os-x-developer-preview\">early</a> <a href=\"https://dougie.space/micro/emulating-mac-os-x-100\">days</a> of Mac OS X through emulation.</p>\n<p>Now that I&rsquo;ve got this book open, I have to say I&rsquo;m tempted to buy one of the original iMacs. It&rsquo;s so iconic&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Re-reading [Aqua and Bondi](https://512pixels.net/aqua-and-bondi/) by Stephen Hackett [@512px](https://micro.blog/512px). This book covers Apple's development of the first iMac as well as Mac OS X and felt like the right next step after reliving the [early](https://dougie.space/micro/emulating-mac-os-x-developer-preview) [days](https://dougie.space/micro/emulating-mac-os-x-100) of Mac OS X through emulation.\n\nNow that I've got this book open, I have to say I'm tempted to buy one of the original iMacs. It's so iconic...\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/9841da7e68.png\" width=\"471\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Re-reading [Aqua and Bondi](https://512pixels.net/aqua-and-bondi/) by Stephen Hackett [@512px](https://micro.blog/512px). This book covers Apple's development of the first iMac as well as Mac OS X and felt like the right next step after reliving the [early](https://dougie.space/micro/emulating-mac-os-x-developer-preview) [days](https://dougie.space/micro/emulating-mac-os-x-100) of Mac OS X through emulation.\n\nNow that I've got this book open, I have to say I'm tempted to buy one of the original iMacs. It's so iconic...\n\n\n\n<img src=\"uploads/2021/9841da7e68.png\" width=\"471\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-09T16:36:51-05:00",
 				"url": "https://doug.pub/2021/05/09/rereading-aqua-and.html"
 			},
@@ -4008,7 +4016,7 @@
 				"id": "http://dfj.micro.blog/2021/03/27/143858.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2021/13a07cebe5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/13a07cebe5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-27T13:38:58-05:00",
 				"url": "https://doug.pub/2021/03/27/143858.html"
 			},
@@ -4032,7 +4040,7 @@
 				"id": "http://dfj.micro.blog/2021/03/14/a-few-more.html",
 				
 				"content_html": "<p>A few more 📷 from around Red River Gorge.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A few more 📷 from around Red River Gorge.\r\n\r\n<img src=\"https://dfj.micro.blog/uploads/2021/a5d56e3c1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/3c627cccd0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/f0a8e16d6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/a661595e20.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/0236ac85cf.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
+				"content_text": "A few more 📷 from around Red River Gorge.\r\n\r\n<img src=\"uploads/2021/a5d56e3c1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/3c627cccd0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/f0a8e16d6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/a661595e20.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n<img src=\"uploads/2021/0236ac85cf.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
 				"date_published": "2021-03-14T22:25:50-05:00",
 				"url": "https://doug.pub/2021/03/14/a-few-more.html"
 			},
@@ -4040,7 +4048,7 @@
 				"id": "http://dfj.micro.blog/2021/03/13/photos-from-hikes.html",
 				
 				"content_html": "<p>Photos from hikes around the Red River Gorge area of Kentucky. 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Photos from hikes around the Red River Gorge area of Kentucky. 📷\n\n<img src=\"https://dfj.micro.blog/uploads/2021/1517e63259.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/b6e30c1165.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/f15d70ce9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Photos from hikes around the Red River Gorge area of Kentucky. 📷\n\n<img src=\"uploads/2021/1517e63259.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/b6e30c1165.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/f15d70ce9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-13T10:39:34-05:00",
 				"url": "https://doug.pub/2021/03/13/photos-from-hikes.html"
 			},
