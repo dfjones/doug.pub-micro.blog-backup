@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/02/18/the-ai-vampire-steve-yegge.html",
+				
+				"content_html": "<p><a href=\"https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163\">The AI Vampire | Steve Yegge</a></p>\n<blockquote>\n<p>With a 10x boost, if you give an engineer Claude Code, then once they’re fluent, their work stream will produce nine additional engineers’ worth of value.\nFor someone.\nBut who actually gets to keep that value?</p>\n</blockquote>\n<p>Interesting post about burnout and AI. Feels like this is increasingly relevant for anyone working with AI but especially software devs.</p>\n",
+				"content_text": "[The AI Vampire | Steve Yegge](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)\n\n> With a 10x boost, if you give an engineer Claude Code, then once they’re fluent, their work stream will produce nine additional engineers’ worth of value.\n> For someone.\n> But who actually gets to keep that value?\n\nInteresting post about burnout and AI. Feels like this is increasingly relevant for anyone working with AI but especially software devs. \n",
+				"date_published": "2026-02-18T10:16:05-05:00",
+				"url": "https://doug.pub/2026/02/18/the-ai-vampire-steve-yegge.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/02/14/finished-reading-hole-in-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9798217169108\">Hole in the Sky</a> by Daniel H. Wilson 📚</p>\n",
