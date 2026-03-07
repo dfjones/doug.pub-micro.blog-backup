@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/03/07/technology-connections-youtube-video-you.html",
+				
+				"content_html": "<p><a href=\"https://youtube.com/watch?v=KtQ9nt2ZeGM&amp;si=XJuJV_lh6_okQf8x\">Technology Connections YouTube video: You are being misled about renewable energy</a></p>\n<p>If this doesn&rsquo;t convince you that the continued pursuit of fossil fuels is friggen stupid and that the people who are pushing for this are lying to you, then I don&rsquo;t know what will.</p>\n<p>Watch through the end to see a nerd clutching a solar panel become very, justifiably, angry about how this connects to the fascist bastard Republicans currently in office.</p>\n",
+				"content_text": "[Technology Connections YouTube video: You are being misled about renewable energy](https://youtube.com/watch?v=KtQ9nt2ZeGM&si=XJuJV_lh6_okQf8x)\n\nIf this doesn't convince you that the continued pursuit of fossil fuels is friggen stupid and that the people who are pushing for this are lying to you, then I don't know what will. \n\nWatch through the end to see a nerd clutching a solar panel become very, justifiably, angry about how this connects to the fascist bastard Republicans currently in office. \n",
+				"date_published": "2026-03-07T14:19:14-05:00",
+				"url": "https://doug.pub/2026/03/07/technology-connections-youtube-video-you.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/02/18/the-ai-vampire-steve-yegge.html",
 				
 				"content_html": "<p><a href=\"https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163\">The AI Vampire | Steve Yegge</a></p>\n<blockquote>\n<p>With a 10x boost, if you give an engineer Claude Code, then once they’re fluent, their work stream will produce nine additional engineers’ worth of value.\nFor someone.\nBut who actually gets to keep that value?</p>\n</blockquote>\n<p>Interesting post about burnout and AI. Feels like this is increasingly relevant for anyone working with AI but especially software devs.</p>\n",
@@ -3560,7 +3568,7 @@
 				"id": "http://dfj.micro.blog/2022/03/15/captiva-island-florida.html",
 				
 				"content_html": "<p>Captiva Island, Florida</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Captiva Island, Florida\n\n<img src=\"https://dfj.micro.blog/uploads/2022/38a5f1da5d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Captiva Island, Florida\n\n<img src=\"uploads/2022/38a5f1da5d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\nheight=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-15T18:57:37-05:00",
 				"url": "https://doug.pub/2022/03/15/captiva-island-florida.html"
 			},
@@ -3568,7 +3576,7 @@
 				"id": "http://dfj.micro.blog/2022/02/01/the-race-to.html",
 				
 				"content_html": "<p><a href=\"https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/\">The race to reconnect Tonga</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[The race to reconnect Tonga](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/)\r\n\r\n\n\n<img src=\"https://dfj.micro.blog/uploads/2022/f852dfd032.png\" width=\"572\" height=\"600\" alt=\"A map of undersea cables in the region of Tonga\" />\n",
+				"content_text": "[The race to reconnect Tonga](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/)\r\n\r\n\n\n<img src=\"uploads/2022/f852dfd032.png\" width=\"572\" height=\"600\" alt=\"A map of undersea cables in the region of Tonga\" />\n",
 				"date_published": "2022-02-01T11:05:59-05:00",
 				"url": "https://doug.pub/2022/02/01/the-race-to.html"
 			},
@@ -3584,7 +3592,7 @@
 				"id": "http://dfj.micro.blog/2022/01/15/150348.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2022/47537fe8fa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/47537fe8fa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-15T15:03:48-05:00",
 				"url": "https://doug.pub/2022/01/15/150348.html"
 			},
@@ -3592,7 +3600,7 @@
 				"id": "http://dfj.micro.blog/2022/01/01/230756.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2022/6c46fd5295.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/6c46fd5295.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-01T23:07:56-05:00",
 				"url": "https://doug.pub/2022/01/01/230756.html"
 			},
@@ -3608,7 +3616,7 @@
 				"id": "http://dfj.micro.blog/2021/11/06/chomp-and-stomp.html",
 				
 				"content_html": "<p>Chomp and Stomp turns out to be a popular event. The chili was good!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chomp and Stomp turns out to be a popular event. The chili was good!\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/cb3e0e5ebf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Chomp and Stomp turns out to be a popular event. The chili was good!\n\n\n\n<img src=\"uploads/2021/cb3e0e5ebf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-06T13:36:53-05:00",
 				"url": "https://doug.pub/2021/11/06/chomp-and-stomp.html"
 			},
@@ -3624,7 +3632,7 @@
 				"id": "http://dfj.micro.blog/2021/10/31/halloween-hike.html",
 				
 				"content_html": "<p>Halloween hike 🎃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Halloween hike 🎃\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c0311b688d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/de135e380e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/68ebfa9567.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/1a6c42cd6c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Halloween hike 🎃\n\n<img src=\"uploads/2021/c0311b688d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/de135e380e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/68ebfa9567.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/1a6c42cd6c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T22:00:18-05:00",
 				"url": "https://doug.pub/2021/10/31/halloween-hike.html"
 			},
@@ -3640,7 +3648,7 @@
 				"id": "http://dfj.micro.blog/2021/10/30/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 30 📷: <strong>red</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 30 📷: **red** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/e24618d647.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 30 📷: **red** \n\n\n\n<img src=\"uploads/2021/e24618d647.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-30T07:52:23-05:00",
 				"url": "https://doug.pub/2021/10/30/microblog-october-photoblogging.html"
 			},
@@ -3648,7 +3656,7 @@
 				"id": "http://dfj.micro.blog/2021/10/29/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 29 📷: <strong>cycle</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 29 📷: **cycle** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f4a3e0370e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 29 📷: **cycle** \n\n\n\n<img src=\"uploads/2021/f4a3e0370e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-29T08:08:28-05:00",
 				"url": "https://doug.pub/2021/10/29/microblog-october-photoblogging.html"
 			},
@@ -3656,7 +3664,7 @@
 				"id": "http://dfj.micro.blog/2021/10/28/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 28 📷: <strong>underneath</strong></p>\n<p>One of the incredible things you can experience while visiting the \nKennedy Space Center is walking <strong>underneath</strong> a Saturn V rocket.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 28 📷: **underneath**\r\n\r\nOne of the incredible things you can experience while visiting the \r\nKennedy Space Center is walking **underneath** a Saturn V rocket. \n\n<img src=\"https://dfj.micro.blog/uploads/2021/86e1bcfa5e.jpg\" width=\"450\" height=\"600\" alt=\"Underneath the nose of a Saturn V rocket at Kennedy Space Center. \" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 28 📷: **underneath**\r\n\r\nOne of the incredible things you can experience while visiting the \r\nKennedy Space Center is walking **underneath** a Saturn V rocket. \n\n<img src=\"uploads/2021/86e1bcfa5e.jpg\" width=\"450\" height=\"600\" alt=\"Underneath the nose of a Saturn V rocket at Kennedy Space Center. \" />\n",
 				"date_published": "2021-10-28T10:51:19-05:00",
 				"url": "https://doug.pub/2021/10/28/microblog-october-photoblogging.html"
 			},
@@ -3672,7 +3680,7 @@
 				"id": "http://dfj.micro.blog/2021/10/26/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 26 📷: <strong>bliss</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 26 📷: **bliss** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b3eb38397b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 26 📷: **bliss** \n\n\n\n<img src=\"uploads/2021/b3eb38397b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-26T06:24:57-05:00",
 				"url": "https://doug.pub/2021/10/26/microblog-october-photoblogging.html"
 			},
@@ -3704,7 +3712,7 @@
 				"id": "http://dfj.micro.blog/2021/10/22/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/e6dcd59576.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest\n\n\n\n<img src=\"uploads/2021/e6dcd59576.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-22T07:13:04-05:00",
 				"url": "https://doug.pub/2021/10/22/microblog-october-photoblogging.html"
 			},
@@ -3712,7 +3720,7 @@
 				"id": "http://dfj.micro.blog/2021/10/21/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/37afc8c637.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space\n\n\n\n<img src=\"uploads/2021/37afc8c637.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-21T07:45:56-05:00",
 				"url": "https://doug.pub/2021/10/21/microblog-october-photoblogging.html"
 			},
@@ -3720,7 +3728,7 @@
 				"id": "http://dfj.micro.blog/2021/10/20/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/a627eb8478.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports\n\n\n\n<img src=\"uploads/2021/a627eb8478.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-20T07:00:18-05:00",
 				"url": "https://doug.pub/2021/10/20/microblog-october-photoblogging.html"
 			},
@@ -3728,7 +3736,7 @@
 				"id": "http://dfj.micro.blog/2021/10/19/211341.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2021/a1f2a3445d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/a1f2a3445d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-19T20:13:41-05:00",
 				"url": "https://doug.pub/2021/10/19/211341.html"
 			},
@@ -3744,7 +3752,7 @@
 				"id": "http://dfj.micro.blog/2021/10/18/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/77b8989df7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished\n\n\n\n<img src=\"uploads/2021/77b8989df7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-18T08:12:30-05:00",
 				"url": "https://doug.pub/2021/10/18/microblog-october-photoblogging.html"
 			},
@@ -3752,7 +3760,7 @@
 				"id": "http://dfj.micro.blog/2021/10/17/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass\r\n\r\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/78fe1068bb.png\" width=\"600\" height=\"526\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass\r\n\r\n\n\n<img src=\"uploads/2021/78fe1068bb.png\" width=\"600\" height=\"526\" alt=\"\" />\n",
 				"date_published": "2021-10-17T12:09:52-05:00",
 				"url": "https://doug.pub/2021/10/17/microblog-october-photoblogging.html"
 			},
@@ -3760,7 +3768,7 @@
 				"id": "http://dfj.micro.blog/2021/10/16/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f50e3fcc35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation\n\n\n\n<img src=\"uploads/2021/f50e3fcc35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-16T09:01:31-05:00",
 				"url": "https://doug.pub/2021/10/16/microblog-october-photoblogging.html"
 			},
@@ -3768,7 +3776,7 @@
 				"id": "http://dfj.micro.blog/2021/10/15/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/23009b888d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal\n\n\n\n<img src=\"uploads/2021/23009b888d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-15T07:57:01-05:00",
 				"url": "https://doug.pub/2021/10/15/microblog-october-photoblogging.html"
 			},
@@ -3776,7 +3784,7 @@
 				"id": "http://dfj.micro.blog/2021/10/14/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f42925e0c0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels\n\n\n\n<img src=\"uploads/2021/f42925e0c0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-14T06:49:16-05:00",
 				"url": "https://doug.pub/2021/10/14/microblog-october-photoblogging.html"
 			},
@@ -3784,7 +3792,7 @@
 				"id": "http://dfj.micro.blog/2021/10/13/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/348249ac18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals\n\n\n\n<img src=\"uploads/2021/348249ac18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-10-13T07:22:32-05:00",
 				"url": "https://doug.pub/2021/10/13/microblog-october-photoblogging.html"
 			},
@@ -3792,7 +3800,7 @@
 				"id": "http://dfj.micro.blog/2021/10/12/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c933027e8e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend\n\n\n\n<img src=\"uploads/2021/c933027e8e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-12T07:00:30-05:00",
 				"url": "https://doug.pub/2021/10/12/microblog-october-photoblogging.html"
 			},
@@ -3800,7 +3808,7 @@
 				"id": "http://dfj.micro.blog/2021/10/11/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/1c93ebd2c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge\n\n\n\n<img src=\"uploads/2021/1c93ebd2c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-11T07:31:26-05:00",
 				"url": "https://doug.pub/2021/10/11/microblog-october-photoblogging.html"
 			},
@@ -3808,7 +3816,7 @@
 				"id": "http://dfj.micro.blog/2021/10/10/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b990189e42.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges\n\n\n\n<img src=\"uploads/2021/b990189e42.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-10T08:55:58-05:00",
 				"url": "https://doug.pub/2021/10/10/microblog-october-photoblogging.html"
 			},
@@ -3824,7 +3832,7 @@
 				"id": "http://dfj.micro.blog/2021/10/08/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/fe2bb60541.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight\n\n\n\n<img src=\"uploads/2021/fe2bb60541.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-08T07:21:17-05:00",
 				"url": "https://doug.pub/2021/10/08/microblog-october-photoblogging.html"
 			},
@@ -3832,7 +3840,7 @@
 				"id": "http://dfj.micro.blog/2021/10/07/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/672c4800ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice\n\n\n\n<img src=\"uploads/2021/672c4800ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-07T07:23:38-05:00",
 				"url": "https://doug.pub/2021/10/07/microblog-october-photoblogging.html"
 			},
@@ -3840,7 +3848,7 @@
 				"id": "http://dfj.micro.blog/2021/10/06/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/3d992617bb.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street\n\n\n\n<img src=\"uploads/2021/3d992617bb.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
 				"date_published": "2021-10-06T07:26:34-05:00",
 				"url": "https://doug.pub/2021/10/06/microblog-october-photoblogging.html"
 			},
@@ -3848,7 +3856,7 @@
 				"id": "http://dfj.micro.blog/2021/10/05/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/412d80c92f.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy\n\n\n\n<img src=\"uploads/2021/412d80c92f.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
 				"date_published": "2021-10-05T07:14:34-05:00",
 				"url": "https://doug.pub/2021/10/05/microblog-october-photoblogging.html"
 			},
@@ -3856,7 +3864,7 @@
 				"id": "http://dfj.micro.blog/2021/10/04/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/094b257b51.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp\n\n\n\n<img src=\"uploads/2021/094b257b51.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-04T07:07:41-05:00",
 				"url": "https://doug.pub/2021/10/04/microblog-october-photoblogging.html"
 			},
@@ -3864,7 +3872,7 @@
 				"id": "http://dfj.micro.blog/2021/10/03/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b241e3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority\n\n\n\n<img src=\"uploads/2021/b241e3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-03T08:07:29-05:00",
 				"url": "https://doug.pub/2021/10/03/microblog-october-photoblogging.html"
 			},
@@ -3872,7 +3880,7 @@
 				"id": "http://dfj.micro.blog/2021/10/02/microblog-october-photo.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photo Challenge day 2 📷: dark</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photo Challenge day 2 📷: dark\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/967f9b6a60.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photo Challenge day 2 📷: dark\n\n\n\n<img src=\"uploads/2021/967f9b6a60.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-02T10:47:13-05:00",
 				"url": "https://doug.pub/2021/10/02/microblog-october-photo.html"
 			},
@@ -3880,7 +3888,7 @@
 				"id": "http://dfj.micro.blog/2021/10/01/day-touchmicroblog-october.html",
 				
 				"content_html": "<p>📷 Day 1: Touch\nmicro.blog October photoblogging challenge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 1: Touch\nmicro.blog October photoblogging challenge\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c9db04e0c0.png\" width=\"338\" height=\"600\" alt=\"\" />\n",
+				"content_text": "📷 Day 1: Touch\nmicro.blog October photoblogging challenge\n\n<img src=\"uploads/2021/c9db04e0c0.png\" width=\"338\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-01T07:16:25-05:00",
 				"url": "https://doug.pub/2021/10/01/day-touchmicroblog-october.html"
 			},
@@ -3888,7 +3896,7 @@
 				"id": "http://dfj.micro.blog/2021/09/22/now-in-atlanta.html",
 				"title": "Now in Atlanta!",
 				"content_html": "<p>In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here.</p>\n<p>Here’s a photo from the new neighborhood.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here. \n\nHere’s a photo from the new neighborhood. \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/09f9924949.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"content_text": "In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here. \n\nHere’s a photo from the new neighborhood. \n\n\n\n<img src=\"uploads/2021/09f9924949.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-22T16:58:53-05:00",
 				"url": "https://doug.pub/2021/09/22/now-in-atlanta.html"
 			},
@@ -3952,7 +3960,7 @@
 				"id": "http://dfj.micro.blog/2021/06/05/brood-x-is.html",
 				
 				"content_html": "<p>Brood X is here!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Brood X is here!\n\n<img src=\"https://dfj.micro.blog/uploads/2021/03ad0e6050.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/5c2f23adf0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Brood X is here!\n\n<img src=\"uploads/2021/03ad0e6050.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5c2f23adf0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-05T11:55:00-05:00",
 				"url": "https://doug.pub/2021/06/05/brood-x-is.html"
 			},
@@ -3960,7 +3968,7 @@
 				"id": "http://dfj.micro.blog/2021/05/30/new-day-happy.html",
 				
 				"content_html": "<p>New 🚵‍♂️ day!</p>\n<p>Happy to be getting into mountain biking. First ride was great!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "New 🚵‍♂️ day!\n\nHappy to be getting into mountain biking. First ride was great!\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/554dba8cb9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/06648dd9ab.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/76c8170f46.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "New 🚵‍♂️ day!\n\nHappy to be getting into mountain biking. First ride was great!\n\n\n\n<img src=\"uploads/2021/554dba8cb9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/06648dd9ab.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/76c8170f46.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-30T14:56:50-05:00",
 				"url": "https://doug.pub/2021/05/30/new-day-happy.html"
 			},
@@ -3976,7 +3984,7 @@
 				"id": "http://dfj.micro.blog/2021/05/22/spotted-the-first.html",
 				
 				"content_html": "<p>Spotted the first one of Brood X! Not the healthiest specimen, but still exciting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spotted the first one of Brood X! Not the healthiest specimen, but still exciting. \n\n<img src=\"https://dfj.micro.blog/uploads/2021/22f5d4189b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Spotted the first one of Brood X! Not the healthiest specimen, but still exciting. \n\n<img src=\"uploads/2021/22f5d4189b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-22T19:37:01-05:00",
 				"url": "https://doug.pub/2021/05/22/spotted-the-first.html"
 			},
@@ -4000,7 +4008,7 @@
 				"id": "http://dfj.micro.blog/2021/05/09/rereading-aqua-and.html",
 				
 				"content_html": "<p>Re-reading <a href=\"https://512pixels.net/aqua-and-bondi/\">Aqua and Bondi</a> by Stephen Hackett <a href=\"https://micro.blog/512px\">@512px</a>. This book covers Apple&rsquo;s development of the first iMac as well as Mac OS X and felt like the right next step after reliving the <a href=\"https://dougie.space/micro/emulating-mac-os-x-developer-preview\">early</a> <a href=\"https://dougie.space/micro/emulating-mac-os-x-100\">days</a> of Mac OS X through emulation.</p>\n<p>Now that I&rsquo;ve got this book open, I have to say I&rsquo;m tempted to buy one of the original iMacs. It&rsquo;s so iconic&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Re-reading [Aqua and Bondi](https://512pixels.net/aqua-and-bondi/) by Stephen Hackett [@512px](https://micro.blog/512px). This book covers Apple's development of the first iMac as well as Mac OS X and felt like the right next step after reliving the [early](https://dougie.space/micro/emulating-mac-os-x-developer-preview) [days](https://dougie.space/micro/emulating-mac-os-x-100) of Mac OS X through emulation.\n\nNow that I've got this book open, I have to say I'm tempted to buy one of the original iMacs. It's so iconic...\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/9841da7e68.png\" width=\"471\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Re-reading [Aqua and Bondi](https://512pixels.net/aqua-and-bondi/) by Stephen Hackett [@512px](https://micro.blog/512px). This book covers Apple's development of the first iMac as well as Mac OS X and felt like the right next step after reliving the [early](https://dougie.space/micro/emulating-mac-os-x-developer-preview) [days](https://dougie.space/micro/emulating-mac-os-x-100) of Mac OS X through emulation.\n\nNow that I've got this book open, I have to say I'm tempted to buy one of the original iMacs. It's so iconic...\n\n\n\n<img src=\"uploads/2021/9841da7e68.png\" width=\"471\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-09T16:36:51-05:00",
 				"url": "https://doug.pub/2021/05/09/rereading-aqua-and.html"
 			},
@@ -4048,7 +4056,7 @@
 				"id": "http://dfj.micro.blog/2021/03/27/143858.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2021/13a07cebe5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/13a07cebe5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-27T13:38:58-05:00",
 				"url": "https://doug.pub/2021/03/27/143858.html"
 			},
@@ -4072,7 +4080,7 @@
 				"id": "http://dfj.micro.blog/2021/03/14/a-few-more.html",
 				
 				"content_html": "<p>A few more 📷 from around Red River Gorge.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A few more 📷 from around Red River Gorge.\r\n\r\n<img src=\"https://dfj.micro.blog/uploads/2021/a5d56e3c1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/3c627cccd0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/f0a8e16d6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/a661595e20.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/0236ac85cf.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
+				"content_text": "A few more 📷 from around Red River Gorge.\r\n\r\n<img src=\"uploads/2021/a5d56e3c1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/3c627cccd0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/f0a8e16d6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/a661595e20.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n<img src=\"uploads/2021/0236ac85cf.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
 				"date_published": "2021-03-14T22:25:50-05:00",
 				"url": "https://doug.pub/2021/03/14/a-few-more.html"
 			},
@@ -4080,7 +4088,7 @@
 				"id": "http://dfj.micro.blog/2021/03/13/photos-from-hikes.html",
 				
 				"content_html": "<p>Photos from hikes around the Red River Gorge area of Kentucky. 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Photos from hikes around the Red River Gorge area of Kentucky. 📷\n\n<img src=\"https://dfj.micro.blog/uploads/2021/1517e63259.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/b6e30c1165.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/f15d70ce9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Photos from hikes around the Red River Gorge area of Kentucky. 📷\n\n<img src=\"uploads/2021/1517e63259.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/b6e30c1165.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/f15d70ce9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-13T10:39:34-05:00",
 				"url": "https://doug.pub/2021/03/13/photos-from-hikes.html"
 			},
