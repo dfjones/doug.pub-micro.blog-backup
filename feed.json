@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/03/09/phantom-obligation-text-version-terry.html",
+				
+				"content_html": "<p><a href=\"https://www.terrygodier.com/phantom-obligation/ascii\">Phantom Obligation (Text Version) | Terry Godier</a></p>\n<blockquote>\n<p>But when we applied that same visual language to RSS (the unread counts, the bold text for new items, the sense of a backlog accumulating) we imported the anxiety without the cause.\nNobody is waiting.</p>\n</blockquote>\n<p>Really good essay about the design of RSS readers. If this appeals to you, check out the app by this author that implements the ideas in this essay: <a href=\"https://www.terrygodier.com/current\">Current</a>.</p>\n<p>In summer 2024, I started a hobby project to build a personal RSS reader and I had a similar approach to what is described here: no unread counts and building a feed like view of posts across all sources, organized in a way I like. I use it every day.</p>\n<p>If I hadn&rsquo;t built this, I&rsquo;d probably be using Current as my daily rss reader.</p>\n",
+				"content_text": "[Phantom Obligation (Text Version) | Terry Godier](https://www.terrygodier.com/phantom-obligation/ascii)\n\n> But when we applied that same visual language to RSS (the unread counts, the bold text for new items, the sense of a backlog accumulating) we imported the anxiety without the cause.\n> Nobody is waiting.\n\nReally good essay about the design of RSS readers. If this appeals to you, check out the app by this author that implements the ideas in this essay: [Current](https://www.terrygodier.com/current). \n\nIn summer 2024, I started a hobby project to build a personal RSS reader and I had a similar approach to what is described here: no unread counts and building a feed like view of posts across all sources, organized in a way I like. I use it every day. \n\nIf I hadn't built this, I'd probably be using Current as my daily rss reader. \n",
+				"date_published": "2026-03-09T09:17:31-05:00",
+				"url": "https://doug.pub/2026/03/09/phantom-obligation-text-version-terry.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/03/07/technology-connections-youtube-video-you.html",
 				
 				"content_html": "<p><a href=\"https://youtube.com/watch?v=KtQ9nt2ZeGM&amp;si=XJuJV_lh6_okQf8x\">Technology Connections YouTube video: You are being misled about renewable energy</a></p>\n<p>If this doesn&rsquo;t convince you that the continued pursuit of fossil fuels is friggen stupid and that the people who are pushing for this are lying to you, then I don&rsquo;t know what will.</p>\n<p>Watch through the end to see a nerd clutching a solar panel become very, justifiably, angry about how this connects to the fascist bastard Republicans currently in office.</p>\n",
