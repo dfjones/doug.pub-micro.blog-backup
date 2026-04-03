@@ -7,11 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/04/03/this-barred-owl-lives-in.html",
+				
+				"content_html": "<p>This barred owl lives in this magnolia tree right near our home!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This barred owl lives in this magnolia tree right near our home!\n\n\n\n<img src=\"uploads/2026/a9f77c840e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-03T08:36:36-04:00",
+				"url": "https://doug.pub/2026/04/03/this-barred-owl-lives-in.html"
+			},
+			{
+				"id": "http://dfj.micro.blog/2026/03/24/trumps-latest-salvo-to-upend.html",
+				
+				"content_html": "<p><a href=\"https://www.canarymedia.com/articles/offshore-wind/trumps-latest-salvo-upend-offshore-wind-pay\">Trump’s latest salvo to upend offshore wind: Pay firms… | Canary Media</a></p>\n<blockquote>\n<p>In its efforts to block U.S. offshore wind development, the Trump administration has halted project construction, rolled back tax credits, and spread misinformation. Now, in the latest maneuver, the administration is paying a global energy giant nearly $1 billion to walk away from its plans to install turbines off the east coast.\nOn Monday, the Interior Department said it had struck a deal with France’s TotalEnergies, which agreed to forfeit its leases for offshore wind areas near North Carolina and New York. In exchange, the Trump administration will ​“reimburse” the company dollar for dollar for the lease fees — and that money will be plowed into new fossil fuel projects.</p>\n</blockquote>\n<p>Insane. Let me make sure I&rsquo;m following this logic:</p>\n<ol>\n<li>Hype up fossil fuels while shitting on renewables</li>\n<li>Start war, spiking the price of oil</li>\n<li>Pay a foreign oil company to not finish projects that&rsquo;d bring more clean energy into the US grid</li>\n<li>Also pay the same foreign oil company to build natural gas export infrastructure that locals oppose and also doesn&rsquo;t contribute to add energy into the US grid</li>\n<li>Laugh all the way to the bank while oil companies (and Trump) get richer and the environment, US energy grid, and US citizens suffer the costs?</li>\n</ol>\n",
+				"content_text": "[Trump’s latest salvo to upend offshore wind: Pay firms… | Canary Media](https://www.canarymedia.com/articles/offshore-wind/trumps-latest-salvo-upend-offshore-wind-pay)\n\n> In its efforts to block U.S. offshore wind development, the Trump administration has halted project construction, rolled back tax credits, and spread misinformation. Now, in the latest maneuver, the administration is paying a global energy giant nearly $1 billion to walk away from its plans to install turbines off the east coast.\n> On Monday, the Interior Department said it had struck a deal with France’s TotalEnergies, which agreed to forfeit its leases for offshore wind areas near North Carolina and New York. In exchange, the Trump administration will ​“reimburse” the company dollar for dollar for the lease fees — and that money will be plowed into new fossil fuel projects.\n\nInsane. Let me make sure I'm following this logic:\n1. Hype up fossil fuels while shitting on renewables\n2. Start war, spiking the price of oil\n3. Pay a foreign oil company to not finish projects that'd bring more clean energy into the US grid\n4. Also pay the same foreign oil company to build natural gas export infrastructure that locals oppose and also doesn't contribute to add energy into the US grid\n5. Laugh all the way to the bank while oil companies (and Trump) get richer and the environment, US energy grid, and US citizens suffer the costs?\n",
+				"date_published": "2026-03-24T11:23:22-04:00",
+				"url": "https://doug.pub/2026/03/24/trumps-latest-salvo-to-upend.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/03/23/a-portal-in-el-morro.html",
 				
 				"content_html": "<p>A portal in El Morro.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A portal in El Morro. \n\n<img src=\"uploads/2026/c6a631b88d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2026-03-23T18:48:02-05:00",
+				"date_published": "2026-03-23T19:48:02-04:00",
 				"url": "https://doug.pub/2026/03/23/a-portal-in-el-morro.html"
 			},
 			{
@@ -19,7 +35,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250266590\">Gideon the Ninth</a> by Tamsyn Muir 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250266590/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Gideon the Ninth](https://micro.blog/books/9781250266590) by Tamsyn Muir 📚\n",
-				"date_published": "2026-03-15T15:11:14-05:00",
+				"date_published": "2026-03-15T16:11:14-04:00",
 				"url": "https://doug.pub/2026/03/15/finished-reading-gideon-the-ninth.html"
 			},
 			{
@@ -27,14 +43,14 @@
 				
 				"content_html": "<p>Otra de Vieques</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Otra de Vieques\n\n<img src=\"uploads/2026/5465f81ba5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2026-03-12T09:45:29-05:00",
+				"date_published": "2026-03-12T10:45:29-04:00",
 				"url": "https://doug.pub/2026/03/12/otra-de-vieques.html"
 			},
 			{
 				"id": "http://dfj.micro.blog/2026/03/12/adios-desde-vieques.html",
 				
 				"content_html": "<p>Adios desde Vieques</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Adios desde Vieques\n\n<img src=\"uploads/2026/9b7b6e18ab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Adios desde Vieques\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2026/9b7b6e18ab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-12T08:42:42-05:00",
 				"url": "https://doug.pub/2026/03/12/adios-desde-vieques.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://dfj.micro.blog/2026/03/09/hola-desde-vieques.html",
 				
 				"content_html": "<p>Hola desde Vieques</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hola desde Vieques\n\n\n<img src=\"uploads/2026/69e13aaff5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Hola desde Vieques\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2026/69e13aaff5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-09T18:02:35-05:00",
 				"url": "https://doug.pub/2026/03/09/hola-desde-vieques.html"
 			},
@@ -83,7 +99,7 @@
 				"title": "AI, Software Development, and Centralization",
 				"content_html": "<p>Two posts on AI that caught my attention recently:</p>\n<p><a href=\"https://antirez.com/news/158\">Don&rsquo;t fall into the anti-AI hype - <!-- raw HTML omitted --></a></p>\n<blockquote>\n<p>I love writing software, line by line. It could be said that my career was a continuous effort to create software well written, minimal, where the human touch was the fundamental feature. I also hope for a society where the last are not forgotten. Moreover, I don&rsquo;t want AI to economically succeed, I don&rsquo;t care if the current economic system is subverted (I could be very happy, honestly, if it goes in the direction of a massive redistribution of wealth). But, I would not respect myself and my intelligence if my idea of software and society would impair my vision: facts are facts, and AI is going to change programming forever.</p>\n</blockquote>\n<p>Antirez is the creator of Redis, which is well respected cache software that I&rsquo;ve used professionally. Writing this kind of software requires extra levels of care and thoughtfulness to maintain performance and reliability goals of the project. So, I find it interesting that LLMs are very useful to Antirez in this codebase.</p>\n<p>I do think that LLMs will be a standard tool for programming going forward. But that&rsquo;s probably been obvious for folks working in the field for a while now.</p>\n<p>What caught my attention more is his views on the ecosystem around LLMs:</p>\n<blockquote>\n<p>However, this technology is far too important to be in the hands of a few companies. For now, you can do the pre-training better or not, you can do reinforcement learning in a much more effective way than others, but the open models, especially the ones produced in China, continue to compete (even if they are behind) with frontier models of closed labs. There is a sufficient democratization of AI, so far, even if imperfect. But: it is absolutely not obvious that it will be like that forever. I&rsquo;m scared about the centralization. At the same time, I believe neural networks, at scale, are simply able to do incredible things, and that there is not enough &ldquo;magic&rdquo; inside current frontier AI for the other labs and teams not to catch up (otherwise it would be very hard to explain, for instance, why OpenAI, Anthropic and Google are so near in their results, for years now).</p>\n</blockquote>\n<p>This aligns well with <a href=\"https://doug.pub/2025/11/02/my-current-thoughts-on-llms.html\">how I feel about LLMs</a>. I think anyone who cares about computing and the impacts it has on society has a vested interest in seeing that AI does not become centralized. And I agree that there&rsquo;s too much practical use for LLMs in coding for things to totally evaporate in a cloud of hype. (Don&rsquo;t take this to mean there isn&rsquo;t too much hype around LLMs and a ton of worthless AI slop. I think the industry as a whole will see the bubble burst, but, like previous tech bubbles, we will some aspect of the technology make it through.)</p>\n<p>Birchtree blogged about using LLMs to quickly build personalized software:</p>\n<p><a href=\"https://birchtree.me/blog/llms-have-made-simple-software-trivial/\">LLMs have made simple software trivial</a></p>\n<blockquote>\n<p>I was out for a run today and I had an idea for an app. I busted out my own app, Quick Notes, and dictated what I wanted this app to do in detail. When I got home, I created a new project in Xcode, I committed it to GitHub, and then I gave Claude Code on the web those dictated notes and asked it to build that app.</p>\n<p>About two minutes later, it was done…and it had a build error. 😅</p>\n</blockquote>\n<p>What&rsquo;s happening here, I think, will quickly be a major shift in the industry and it&rsquo;s one that I&rsquo;m excited about: software development will become increasingly decentralized and personal. For ages, we&rsquo;ve all had incredibly powerful computers (and phones!) accessible to us on a daily basis. Yet, our dominant computing experiences have become increasingly centralized. Just think how much of our digital lives runs in the cloud rather than on our personal machines. Now, don&rsquo;t get me wrong, I love the web. But what I love about it is how it is open and accessible to everyone as both a reader and a writer. However, today the web is dominated by a handful of companies (Google, namely). And it&rsquo;s the same situation for our personal devices: Apple, Google, and Microsoft retain so much power over what&rsquo;s allowed to run on their operating systems.</p>\n<p>But, I think there&rsquo;s a path into the future where LLMs help chip away at the centralization we are currently experiencing. Apple and others will lose their positions as gatekeepers and toll extractors if people with no development skills are able to use LLMs to build whatever idea they have into functioning software that runs on their personal devices. I think the trick here is to ensure we don&rsquo;t just replace Apple, Google, and Microsoft with OpenAI, Anthropic, and, well, Google again.</p>\n<p>To that end, it&rsquo;s become a hobby of mine to experiment with opensource LLMs and the ecosystem around them on my <a href=\"https://frame.work/desktop\">Framework Desktop</a> which can easily run large models on it&rsquo;s shared memory architecture. I hope to write more about what I&rsquo;ve been experimenting with here in more detail. But for now, here&rsquo;s a few pointers if you are interested in this space:</p>\n<ul>\n<li><a href=\"https://clawd.bot\">clawd.bot</a>: Think open source Siri with much more capability and integrations. I&rsquo;ve only just started playing with this, but it&rsquo;s super interesting.</li>\n<li><a href=\"https://opencode.ai\">opencode</a>: A Claude Code like CLI tool that can utilize LLMs running in the cloud as well as models you are running locally, which is how I&rsquo;ve been using it.</li>\n</ul>\n",
 				"content_text": "Two posts on AI that caught my attention recently:\n\n[Don't fall into the anti-AI hype - <antirez>](https://antirez.com/news/158)\n\n> I love writing software, line by line. It could be said that my career was a continuous effort to create software well written, minimal, where the human touch was the fundamental feature. I also hope for a society where the last are not forgotten. Moreover, I don't want AI to economically succeed, I don't care if the current economic system is subverted (I could be very happy, honestly, if it goes in the direction of a massive redistribution of wealth). But, I would not respect myself and my intelligence if my idea of software and society would impair my vision: facts are facts, and AI is going to change programming forever.\n\nAntirez is the creator of Redis, which is well respected cache software that I've used professionally. Writing this kind of software requires extra levels of care and thoughtfulness to maintain performance and reliability goals of the project. So, I find it interesting that LLMs are very useful to Antirez in this codebase. \n\nI do think that LLMs will be a standard tool for programming going forward. But that's probably been obvious for folks working in the field for a while now.\n\nWhat caught my attention more is his views on the ecosystem around LLMs:\n\n> However, this technology is far too important to be in the hands of a few companies. For now, you can do the pre-training better or not, you can do reinforcement learning in a much more effective way than others, but the open models, especially the ones produced in China, continue to compete (even if they are behind) with frontier models of closed labs. There is a sufficient democratization of AI, so far, even if imperfect. But: it is absolutely not obvious that it will be like that forever. I'm scared about the centralization. At the same time, I believe neural networks, at scale, are simply able to do incredible things, and that there is not enough \"magic\" inside current frontier AI for the other labs and teams not to catch up (otherwise it would be very hard to explain, for instance, why OpenAI, Anthropic and Google are so near in their results, for years now).\n\nThis aligns well with [how I feel about LLMs](https://doug.pub/2025/11/02/my-current-thoughts-on-llms.html). I think anyone who cares about computing and the impacts it has on society has a vested interest in seeing that AI does not become centralized. And I agree that there's too much practical use for LLMs in coding for things to totally evaporate in a cloud of hype. (Don't take this to mean there isn't too much hype around LLMs and a ton of worthless AI slop. I think the industry as a whole will see the bubble burst, but, like previous tech bubbles, we will some aspect of the technology make it through.) \n\nBirchtree blogged about using LLMs to quickly build personalized software:\n\n[LLMs have made simple software trivial](https://birchtree.me/blog/llms-have-made-simple-software-trivial/)\n\n> I was out for a run today and I had an idea for an app. I busted out my own app, Quick Notes, and dictated what I wanted this app to do in detail. When I got home, I created a new project in Xcode, I committed it to GitHub, and then I gave Claude Code on the web those dictated notes and asked it to build that app.\n> \n> About two minutes later, it was done…and it had a build error. 😅\n\nWhat's happening here, I think, will quickly be a major shift in the industry and it's one that I'm excited about: software development will become increasingly decentralized and personal. For ages, we've all had incredibly powerful computers (and phones!) accessible to us on a daily basis. Yet, our dominant computing experiences have become increasingly centralized. Just think how much of our digital lives runs in the cloud rather than on our personal machines. Now, don't get me wrong, I love the web. But what I love about it is how it is open and accessible to everyone as both a reader and a writer. However, today the web is dominated by a handful of companies (Google, namely). And it's the same situation for our personal devices: Apple, Google, and Microsoft retain so much power over what's allowed to run on their operating systems. \n\nBut, I think there's a path into the future where LLMs help chip away at the centralization we are currently experiencing. Apple and others will lose their positions as gatekeepers and toll extractors if people with no development skills are able to use LLMs to build whatever idea they have into functioning software that runs on their personal devices. I think the trick here is to ensure we don't just replace Apple, Google, and Microsoft with OpenAI, Anthropic, and, well, Google again. \n\nTo that end, it's become a hobby of mine to experiment with opensource LLMs and the ecosystem around them on my [Framework Desktop](https://frame.work/desktop) which can easily run large models on it's shared memory architecture. I hope to write more about what I've been experimenting with here in more detail. But for now, here's a few pointers if you are interested in this space:\n\n* [clawd.bot](https://clawd.bot): Think open source Siri with much more capability and integrations. I've only just started playing with this, but it's super interesting.\n* [opencode](https://opencode.ai): A Claude Code like CLI tool that can utilize LLMs running in the cloud as well as models you are running locally, which is how I've been using it. \n",
-				"date_published": "2026-01-18T12:12:01-05:00",
+				"date_published": "2026-01-18T13:12:01-04:00",
 				"url": "https://doug.pub/2026/01/18/ai-software-development-and-centralization.html"
 			},
 			{
@@ -3616,7 +3632,7 @@
 				"id": "http://dfj.micro.blog/2022/03/15/captiva-island-florida.html",
 				
 				"content_html": "<p>Captiva Island, Florida</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Captiva Island, Florida\n\n<img src=\"https://dfj.micro.blog/uploads/2022/38a5f1da5d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Captiva Island, Florida\n\n<img src=\"uploads/2022/38a5f1da5d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\nheight=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-15T18:57:37-05:00",
 				"url": "https://doug.pub/2022/03/15/captiva-island-florida.html"
 			},
@@ -3624,7 +3640,7 @@
 				"id": "http://dfj.micro.blog/2022/02/01/the-race-to.html",
 				
 				"content_html": "<p><a href=\"https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/\">The race to reconnect Tonga</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[The race to reconnect Tonga](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/)\r\n\r\n\n\n<img src=\"https://dfj.micro.blog/uploads/2022/f852dfd032.png\" width=\"572\" height=\"600\" alt=\"A map of undersea cables in the region of Tonga\" />\n",
+				"content_text": "[The race to reconnect Tonga](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/)\r\n\r\n\n\n<img src=\"uploads/2022/f852dfd032.png\" width=\"572\" height=\"600\" alt=\"A map of undersea cables in the region of Tonga\" />\n",
 				"date_published": "2022-02-01T11:05:59-05:00",
 				"url": "https://doug.pub/2022/02/01/the-race-to.html"
 			},
@@ -3640,7 +3656,7 @@
 				"id": "http://dfj.micro.blog/2022/01/15/150348.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2022/47537fe8fa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/47537fe8fa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-15T15:03:48-05:00",
 				"url": "https://doug.pub/2022/01/15/150348.html"
 			},
@@ -3648,7 +3664,7 @@
 				"id": "http://dfj.micro.blog/2022/01/01/230756.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2022/6c46fd5295.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/6c46fd5295.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-01T23:07:56-05:00",
 				"url": "https://doug.pub/2022/01/01/230756.html"
 			},
@@ -3664,7 +3680,7 @@
 				"id": "http://dfj.micro.blog/2021/11/06/chomp-and-stomp.html",
 				
 				"content_html": "<p>Chomp and Stomp turns out to be a popular event. The chili was good!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chomp and Stomp turns out to be a popular event. The chili was good!\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/cb3e0e5ebf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Chomp and Stomp turns out to be a popular event. The chili was good!\n\n\n\n<img src=\"uploads/2021/cb3e0e5ebf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-06T13:36:53-05:00",
 				"url": "https://doug.pub/2021/11/06/chomp-and-stomp.html"
 			},
@@ -3680,7 +3696,7 @@
 				"id": "http://dfj.micro.blog/2021/10/31/halloween-hike.html",
 				
 				"content_html": "<p>Halloween hike 🎃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Halloween hike 🎃\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c0311b688d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/de135e380e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/68ebfa9567.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/1a6c42cd6c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Halloween hike 🎃\n\n<img src=\"uploads/2021/c0311b688d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/de135e380e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/68ebfa9567.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/1a6c42cd6c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T22:00:18-05:00",
 				"url": "https://doug.pub/2021/10/31/halloween-hike.html"
 			},
@@ -3696,7 +3712,7 @@
 				"id": "http://dfj.micro.blog/2021/10/30/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 30 📷: <strong>red</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 30 📷: **red** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/e24618d647.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 30 📷: **red** \n\n\n\n<img src=\"uploads/2021/e24618d647.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-30T07:52:23-05:00",
 				"url": "https://doug.pub/2021/10/30/microblog-october-photoblogging.html"
 			},
@@ -3704,7 +3720,7 @@
 				"id": "http://dfj.micro.blog/2021/10/29/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 29 📷: <strong>cycle</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 29 📷: **cycle** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f4a3e0370e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 29 📷: **cycle** \n\n\n\n<img src=\"uploads/2021/f4a3e0370e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-29T08:08:28-05:00",
 				"url": "https://doug.pub/2021/10/29/microblog-october-photoblogging.html"
 			},
@@ -3712,7 +3728,7 @@
 				"id": "http://dfj.micro.blog/2021/10/28/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 28 📷: <strong>underneath</strong></p>\n<p>One of the incredible things you can experience while visiting the \nKennedy Space Center is walking <strong>underneath</strong> a Saturn V rocket.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 28 📷: **underneath**\r\n\r\nOne of the incredible things you can experience while visiting the \r\nKennedy Space Center is walking **underneath** a Saturn V rocket. \n\n<img src=\"https://dfj.micro.blog/uploads/2021/86e1bcfa5e.jpg\" width=\"450\" height=\"600\" alt=\"Underneath the nose of a Saturn V rocket at Kennedy Space Center. \" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 28 📷: **underneath**\r\n\r\nOne of the incredible things you can experience while visiting the \r\nKennedy Space Center is walking **underneath** a Saturn V rocket. \n\n<img src=\"uploads/2021/86e1bcfa5e.jpg\" width=\"450\" height=\"600\" alt=\"Underneath the nose of a Saturn V rocket at Kennedy Space Center. \" />\n",
 				"date_published": "2021-10-28T10:51:19-05:00",
 				"url": "https://doug.pub/2021/10/28/microblog-october-photoblogging.html"
 			},
@@ -3728,7 +3744,7 @@
 				"id": "http://dfj.micro.blog/2021/10/26/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 26 📷: <strong>bliss</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 26 📷: **bliss** \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b3eb38397b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 26 📷: **bliss** \n\n\n\n<img src=\"uploads/2021/b3eb38397b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-26T06:24:57-05:00",
 				"url": "https://doug.pub/2021/10/26/microblog-october-photoblogging.html"
 			},
@@ -3760,7 +3776,7 @@
 				"id": "http://dfj.micro.blog/2021/10/22/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/e6dcd59576.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 22 📷: rest\n\n\n\n<img src=\"uploads/2021/e6dcd59576.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-22T07:13:04-05:00",
 				"url": "https://doug.pub/2021/10/22/microblog-october-photoblogging.html"
 			},
@@ -3768,7 +3784,7 @@
 				"id": "http://dfj.micro.blog/2021/10/21/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/37afc8c637.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 21 📷: space\n\n\n\n<img src=\"uploads/2021/37afc8c637.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-21T07:45:56-05:00",
 				"url": "https://doug.pub/2021/10/21/microblog-october-photoblogging.html"
 			},
@@ -3776,7 +3792,7 @@
 				"id": "http://dfj.micro.blog/2021/10/20/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/a627eb8478.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 20 📷: sports\n\n\n\n<img src=\"uploads/2021/a627eb8478.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-20T07:00:18-05:00",
 				"url": "https://doug.pub/2021/10/20/microblog-october-photoblogging.html"
 			},
@@ -3784,7 +3800,7 @@
 				"id": "http://dfj.micro.blog/2021/10/19/211341.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2021/a1f2a3445d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/a1f2a3445d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-19T20:13:41-05:00",
 				"url": "https://doug.pub/2021/10/19/211341.html"
 			},
@@ -3800,7 +3816,7 @@
 				"id": "http://dfj.micro.blog/2021/10/18/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/77b8989df7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 18 📷: finished\n\n\n\n<img src=\"uploads/2021/77b8989df7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-18T08:12:30-05:00",
 				"url": "https://doug.pub/2021/10/18/microblog-october-photoblogging.html"
 			},
@@ -3808,7 +3824,7 @@
 				"id": "http://dfj.micro.blog/2021/10/17/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass\r\n\r\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/78fe1068bb.png\" width=\"600\" height=\"526\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 17 📷: compass\r\n\r\n\n\n<img src=\"uploads/2021/78fe1068bb.png\" width=\"600\" height=\"526\" alt=\"\" />\n",
 				"date_published": "2021-10-17T12:09:52-05:00",
 				"url": "https://doug.pub/2021/10/17/microblog-october-photoblogging.html"
 			},
@@ -3816,7 +3832,7 @@
 				"id": "http://dfj.micro.blog/2021/10/16/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f50e3fcc35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 16 📷: rotation\n\n\n\n<img src=\"uploads/2021/f50e3fcc35.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-16T09:01:31-05:00",
 				"url": "https://doug.pub/2021/10/16/microblog-october-photoblogging.html"
 			},
@@ -3824,7 +3840,7 @@
 				"id": "http://dfj.micro.blog/2021/10/15/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/23009b888d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 15 📷: ethereal\n\n\n\n<img src=\"uploads/2021/23009b888d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-15T07:57:01-05:00",
 				"url": "https://doug.pub/2021/10/15/microblog-october-photoblogging.html"
 			},
@@ -3832,7 +3848,7 @@
 				"id": "http://dfj.micro.blog/2021/10/14/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/f42925e0c0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 14 📷: wheels\n\n\n\n<img src=\"uploads/2021/f42925e0c0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-14T06:49:16-05:00",
 				"url": "https://doug.pub/2021/10/14/microblog-october-photoblogging.html"
 			},
@@ -3840,7 +3856,7 @@
 				"id": "http://dfj.micro.blog/2021/10/13/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/348249ac18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 13 📷: animals\n\n\n\n<img src=\"uploads/2021/348249ac18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-10-13T07:22:32-05:00",
 				"url": "https://doug.pub/2021/10/13/microblog-october-photoblogging.html"
 			},
@@ -3848,7 +3864,7 @@
 				"id": "http://dfj.micro.blog/2021/10/12/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c933027e8e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 12 📷: legend\n\n\n\n<img src=\"uploads/2021/c933027e8e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-12T07:00:30-05:00",
 				"url": "https://doug.pub/2021/10/12/microblog-october-photoblogging.html"
 			},
@@ -3856,7 +3872,7 @@
 				"id": "http://dfj.micro.blog/2021/10/11/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/1c93ebd2c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 11 📷: hygge\n\n\n\n<img src=\"uploads/2021/1c93ebd2c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-11T07:31:26-05:00",
 				"url": "https://doug.pub/2021/10/11/microblog-october-photoblogging.html"
 			},
@@ -3864,7 +3880,7 @@
 				"id": "http://dfj.micro.blog/2021/10/10/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b990189e42.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 10 📷: bridges\n\n\n\n<img src=\"uploads/2021/b990189e42.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-10T08:55:58-05:00",
 				"url": "https://doug.pub/2021/10/10/microblog-october-photoblogging.html"
 			},
@@ -3880,7 +3896,7 @@
 				"id": "http://dfj.micro.blog/2021/10/08/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/fe2bb60541.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 8 📷: twilight\n\n\n\n<img src=\"uploads/2021/fe2bb60541.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-08T07:21:17-05:00",
 				"url": "https://doug.pub/2021/10/08/microblog-october-photoblogging.html"
 			},
@@ -3888,7 +3904,7 @@
 				"id": "http://dfj.micro.blog/2021/10/07/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/672c4800ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 7 📷: spice\n\n\n\n<img src=\"uploads/2021/672c4800ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-07T07:23:38-05:00",
 				"url": "https://doug.pub/2021/10/07/microblog-october-photoblogging.html"
 			},
@@ -3896,7 +3912,7 @@
 				"id": "http://dfj.micro.blog/2021/10/06/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/3d992617bb.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 6 📷: street\n\n\n\n<img src=\"uploads/2021/3d992617bb.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
 				"date_published": "2021-10-06T07:26:34-05:00",
 				"url": "https://doug.pub/2021/10/06/microblog-october-photoblogging.html"
 			},
@@ -3904,7 +3920,7 @@
 				"id": "http://dfj.micro.blog/2021/10/05/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/412d80c92f.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 5 📷: toy\n\n\n\n<img src=\"uploads/2021/412d80c92f.jpg\" width=\"600\" height=\"471\" alt=\"\" />\n",
 				"date_published": "2021-10-05T07:14:34-05:00",
 				"url": "https://doug.pub/2021/10/05/microblog-october-photoblogging.html"
 			},
@@ -3912,7 +3928,7 @@
 				"id": "http://dfj.micro.blog/2021/10/04/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/094b257b51.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 4 📷: Sharp\n\n\n\n<img src=\"uploads/2021/094b257b51.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-04T07:07:41-05:00",
 				"url": "https://doug.pub/2021/10/04/microblog-october-photoblogging.html"
 			},
@@ -3920,7 +3936,7 @@
 				"id": "http://dfj.micro.blog/2021/10/03/microblog-october-photoblogging.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/b241e3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photoblogging Challenge Day 3 📷: majority\n\n\n\n<img src=\"uploads/2021/b241e3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-03T08:07:29-05:00",
 				"url": "https://doug.pub/2021/10/03/microblog-october-photoblogging.html"
 			},
@@ -3928,7 +3944,7 @@
 				"id": "http://dfj.micro.blog/2021/10/02/microblog-october-photo.html",
 				
 				"content_html": "<p>Micro.blog October 2021 Photo Challenge day 2 📷: dark</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog October 2021 Photo Challenge day 2 📷: dark\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/967f9b6a60.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Micro.blog October 2021 Photo Challenge day 2 📷: dark\n\n\n\n<img src=\"uploads/2021/967f9b6a60.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-02T10:47:13-05:00",
 				"url": "https://doug.pub/2021/10/02/microblog-october-photo.html"
 			},
@@ -3936,7 +3952,7 @@
 				"id": "http://dfj.micro.blog/2021/10/01/day-touchmicroblog-october.html",
 				
 				"content_html": "<p>📷 Day 1: Touch\nmicro.blog October photoblogging challenge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 1: Touch\nmicro.blog October photoblogging challenge\n\n<img src=\"https://dfj.micro.blog/uploads/2021/c9db04e0c0.png\" width=\"338\" height=\"600\" alt=\"\" />\n",
+				"content_text": "📷 Day 1: Touch\nmicro.blog October photoblogging challenge\n\n<img src=\"uploads/2021/c9db04e0c0.png\" width=\"338\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-01T07:16:25-05:00",
 				"url": "https://doug.pub/2021/10/01/day-touchmicroblog-october.html"
 			},
@@ -3944,7 +3960,7 @@
 				"id": "http://dfj.micro.blog/2021/09/22/now-in-atlanta.html",
 				"title": "Now in Atlanta!",
 				"content_html": "<p>In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here.</p>\n<p>Here’s a photo from the new neighborhood.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here. \n\nHere’s a photo from the new neighborhood. \n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/09f9924949.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"content_text": "In some personal news, I’m now living in Atlanta! We moved at the end of the summer and are getting settled in. I’m excited to have a new city to start exploring. Looking forward to finding out what fall is like here. \n\nHere’s a photo from the new neighborhood. \n\n\n\n<img src=\"uploads/2021/09f9924949.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-22T16:58:53-05:00",
 				"url": "https://doug.pub/2021/09/22/now-in-atlanta.html"
 			},
@@ -4008,7 +4024,7 @@
 				"id": "http://dfj.micro.blog/2021/06/05/brood-x-is.html",
 				
 				"content_html": "<p>Brood X is here!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Brood X is here!\n\n<img src=\"https://dfj.micro.blog/uploads/2021/03ad0e6050.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/5c2f23adf0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Brood X is here!\n\n<img src=\"uploads/2021/03ad0e6050.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5c2f23adf0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-05T11:55:00-05:00",
 				"url": "https://doug.pub/2021/06/05/brood-x-is.html"
 			},
@@ -4016,7 +4032,7 @@
 				"id": "http://dfj.micro.blog/2021/05/30/new-day-happy.html",
 				
 				"content_html": "<p>New 🚵‍♂️ day!</p>\n<p>Happy to be getting into mountain biking. First ride was great!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "New 🚵‍♂️ day!\n\nHappy to be getting into mountain biking. First ride was great!\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/554dba8cb9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/06648dd9ab.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/76c8170f46.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "New 🚵‍♂️ day!\n\nHappy to be getting into mountain biking. First ride was great!\n\n\n\n<img src=\"uploads/2021/554dba8cb9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/06648dd9ab.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/76c8170f46.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-30T14:56:50-05:00",
 				"url": "https://doug.pub/2021/05/30/new-day-happy.html"
 			},
@@ -4032,7 +4048,7 @@
 				"id": "http://dfj.micro.blog/2021/05/22/spotted-the-first.html",
 				
 				"content_html": "<p>Spotted the first one of Brood X! Not the healthiest specimen, but still exciting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spotted the first one of Brood X! Not the healthiest specimen, but still exciting. \n\n<img src=\"https://dfj.micro.blog/uploads/2021/22f5d4189b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Spotted the first one of Brood X! Not the healthiest specimen, but still exciting. \n\n<img src=\"uploads/2021/22f5d4189b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-22T19:37:01-05:00",
 				"url": "https://doug.pub/2021/05/22/spotted-the-first.html"
 			},
@@ -4056,7 +4072,7 @@
 				"id": "http://dfj.micro.blog/2021/05/09/rereading-aqua-and.html",
 				
 				"content_html": "<p>Re-reading <a href=\"https://512pixels.net/aqua-and-bondi/\">Aqua and Bondi</a> by Stephen Hackett <a href=\"https://micro.blog/512px\">@512px</a>. This book covers Apple&rsquo;s development of the first iMac as well as Mac OS X and felt like the right next step after reliving the <a href=\"https://dougie.space/micro/emulating-mac-os-x-developer-preview\">early</a> <a href=\"https://dougie.space/micro/emulating-mac-os-x-100\">days</a> of Mac OS X through emulation.</p>\n<p>Now that I&rsquo;ve got this book open, I have to say I&rsquo;m tempted to buy one of the original iMacs. It&rsquo;s so iconic&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Re-reading [Aqua and Bondi](https://512pixels.net/aqua-and-bondi/) by Stephen Hackett [@512px](https://micro.blog/512px). This book covers Apple's development of the first iMac as well as Mac OS X and felt like the right next step after reliving the [early](https://dougie.space/micro/emulating-mac-os-x-developer-preview) [days](https://dougie.space/micro/emulating-mac-os-x-100) of Mac OS X through emulation.\n\nNow that I've got this book open, I have to say I'm tempted to buy one of the original iMacs. It's so iconic...\n\n\n\n<img src=\"https://dfj.micro.blog/uploads/2021/9841da7e68.png\" width=\"471\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Re-reading [Aqua and Bondi](https://512pixels.net/aqua-and-bondi/) by Stephen Hackett [@512px](https://micro.blog/512px). This book covers Apple's development of the first iMac as well as Mac OS X and felt like the right next step after reliving the [early](https://dougie.space/micro/emulating-mac-os-x-developer-preview) [days](https://dougie.space/micro/emulating-mac-os-x-100) of Mac OS X through emulation.\n\nNow that I've got this book open, I have to say I'm tempted to buy one of the original iMacs. It's so iconic...\n\n\n\n<img src=\"uploads/2021/9841da7e68.png\" width=\"471\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-09T16:36:51-05:00",
 				"url": "https://doug.pub/2021/05/09/rereading-aqua-and.html"
 			},
@@ -4104,7 +4120,7 @@
 				"id": "http://dfj.micro.blog/2021/03/27/143858.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://dfj.micro.blog/uploads/2021/13a07cebe5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/13a07cebe5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-27T13:38:58-05:00",
 				"url": "https://doug.pub/2021/03/27/143858.html"
 			},
@@ -4128,7 +4144,7 @@
 				"id": "http://dfj.micro.blog/2021/03/14/a-few-more.html",
 				
 				"content_html": "<p>A few more 📷 from around Red River Gorge.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A few more 📷 from around Red River Gorge.\r\n\r\n<img src=\"https://dfj.micro.blog/uploads/2021/a5d56e3c1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/3c627cccd0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/f0a8e16d6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/a661595e20.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n<img src=\"https://dfj.micro.blog/uploads/2021/0236ac85cf.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
+				"content_text": "A few more 📷 from around Red River Gorge.\r\n\r\n<img src=\"uploads/2021/a5d56e3c1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/3c627cccd0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/f0a8e16d6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n<img src=\"uploads/2021/a661595e20.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n<img src=\"uploads/2021/0236ac85cf.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
 				"date_published": "2021-03-14T22:25:50-05:00",
 				"url": "https://doug.pub/2021/03/14/a-few-more.html"
 			},
@@ -4136,7 +4152,7 @@
 				"id": "http://dfj.micro.blog/2021/03/13/photos-from-hikes.html",
 				
 				"content_html": "<p>Photos from hikes around the Red River Gorge area of Kentucky. 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Photos from hikes around the Red River Gorge area of Kentucky. 📷\n\n<img src=\"https://dfj.micro.blog/uploads/2021/1517e63259.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/b6e30c1165.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dfj.micro.blog/uploads/2021/f15d70ce9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Photos from hikes around the Red River Gorge area of Kentucky. 📷\n\n<img src=\"uploads/2021/1517e63259.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/b6e30c1165.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/f15d70ce9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-13T10:39:34-05:00",
 				"url": "https://doug.pub/2021/03/13/photos-from-hikes.html"
 			},
