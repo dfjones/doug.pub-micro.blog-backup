@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/05/16/some-photos-taken-outside-taos.html",
+				
+				"content_html": "<p>Some photos taken outside Taos, NM from last year that I don’t think ever made it to the blog.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Some photos taken outside Taos, NM from last year that I don’t think ever made it to the blog. \n\n<img src=\"uploads/2026/c2a01dd1bf.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/b4dd8c715c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2026-05-16T13:33:18-04:00",
+				"url": "https://doug.pub/2026/05/16/some-photos-taken-outside-taos.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/05/03/cydintosh-tiny-classic-mac-plus.html",
 				"title": "Cydintosh: Tiny classic Mac Plus emulator for displaying weather data",
 				"content_html": "<p>If you like classic Macs and home automation, you&rsquo;ve got to check out the Cydintosh project:</p>\n<p><a href=\"https://github.com/likeablob/cydintosh\">https://github.com/likeablob/cydintosh</a></p>\n<p>I assembled mine and it&rsquo;s working great!</p>\n<p>It&rsquo;s amazing to me that this little board is emulating a Mac while listening to events for weather data. What a clever project!</p>\n<p>If this appeals to you and you don&rsquo;t have access to a 3d printer for the enclosure, reach out. I have plenty of PLA in this color to go around. :-)</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://dfj.micro.blog/2026/04/03/this-barred-owl-lives-in.html",
 				
 				"content_html": "<p>This barred owl lives in this magnolia tree right near our home!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This barred owl lives in this magnolia tree right near our home!\n\n\n\n<img src=\"uploads/2026/a9f77c840e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "This barred owl lives in this magnolia tree right near our home!\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2026/a9f77c840e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-03T08:36:36-04:00",
 				"url": "https://doug.pub/2026/04/03/this-barred-owl-lives-in.html"
 			},
