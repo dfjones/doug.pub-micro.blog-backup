@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/05/27/ghost-pipe-flower-not-a.html",
+				
+				"content_html": "<p>Ghost Pipe flower (not a fungus!) spotted while hiking near Asheville, NC. Thanks Beth and Jonathan for teaching me about this plant!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ghost Pipe flower (not a fungus!) spotted while hiking near Asheville, NC. Thanks Beth and Jonathan for teaching me about this plant!\n\n<img src=\"uploads/2026/91f35e1759.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-27T08:40:26-04:00",
+				"url": "https://doug.pub/2026/05/27/ghost-pipe-flower-not-a.html"
+			},
+			{
+				"id": "http://dfj.micro.blog/2026/05/22/how-to-hate-ai-steve.html",
+				
+				"content_html": "<p><a href=\"https://stevedylan.dev/posts/how-to-hate-ai/\">How to Hate AI • Steve Simkins</a></p>\n<blockquote>\n<p>I read a blog post recently saying that it was ok to hate AI. While I agree to some extent, I think it was missing some key points about how to hate AI. It’s easy to just hate something you don’t like. We as humans have a natural propensity to hate or dislike things we are not familiar with. The problem is that this approach is akin to putting your head in the sand or screaming at the clouds; it doesn’t actually help anyone.</p>\n</blockquote>\n",
+				"content_text": "[How to Hate AI • Steve Simkins](https://stevedylan.dev/posts/how-to-hate-ai/)\n\n> I read a blog post recently saying that it was ok to hate AI. While I agree to some extent, I think it was missing some key points about how to hate AI. It’s easy to just hate something you don’t like. We as humans have a natural propensity to hate or dislike things we are not familiar with. The problem is that this approach is akin to putting your head in the sand or screaming at the clouds; it doesn’t actually help anyone.\n\n",
+				"date_published": "2026-05-22T10:30:19-04:00",
+				"url": "https://doug.pub/2026/05/22/how-to-hate-ai-steve.html"
+			},
+			{
+				"id": "http://dfj.micro.blog/2026/05/22/nobody-pushed-back-why-engineers.html",
+				
+				"content_html": "<p><a href=\"https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back\">Nobody Pushed Back: Why Engineers Stay Silent Until It&rsquo;s Too Late | How to Center a Div</a></p>\n<blockquote>\n<p>Someone walks through an architectural decision and nobody in that room actually agrees — they just act like they do, because saying what you really think is socially expensive. Meeting ends, decision gets made. Six months later production blows up and everyone says &ldquo;we knew this would happen.&rdquo;</p>\n</blockquote>\n<p>I wonder how AI is going to change this situation? Will it become harder to push back against something AI has built even if it&rsquo;s bad? How long until engineers don&rsquo;t even know what the AI is producing and the automated decisions being made are not even reviewed?</p>\n",
+				"content_text": "[Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late | How to Center a Div](https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back)\n\n> Someone walks through an architectural decision and nobody in that room actually agrees — they just act like they do, because saying what you really think is socially expensive. Meeting ends, decision gets made. Six months later production blows up and everyone says \"we knew this would happen.\"\n\nI wonder how AI is going to change this situation? Will it become harder to push back against something AI has built even if it's bad? How long until engineers don't even know what the AI is producing and the automated decisions being made are not even reviewed?\n",
+				"date_published": "2026-05-22T08:58:37-04:00",
+				"url": "https://doug.pub/2026/05/22/nobody-pushed-back-why-engineers.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/05/22/ad-infinitum-matthias-ott-for.html",
 				
 				"content_html": "<p><a href=\"https://matthiasott.com/notes/ad-infinitum\">Ad Infinitum · Matthias Ott</a></p>\n<blockquote>\n<p>For 25 years, Google Search was built on a contract. The web provided the content – billions of pages, freely linked, freely crawled. In return, Google sent people back. The link was the unit of exchange. It’s what made the Web thrive as an information system: you publish, Google indexes, users click through, and value flows back to the source. Win-win.</p>\n</blockquote>\n<blockquote>\n<p>That contract is now broken.</p>\n</blockquote>\n",
@@ -26,7 +50,7 @@
 				"id": "http://dfj.micro.blog/2026/05/16/some-photos-taken-outside-taos.html",
 				
 				"content_html": "<p>Some photos taken outside Taos, NM from last year that I don’t think ever made it to the blog.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Some photos taken outside Taos, NM from last year that I don’t think ever made it to the blog. \n\n<img src=\"uploads/2026/c2a01dd1bf.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2026/b4dd8c715c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Some photos taken outside Taos, NM from last year that I don’t think ever made it to the blog. \n\n<img src=\"https://cdn.uploads.micro.blog/1726/2026/c2a01dd1bf.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1726/2026/b4dd8c715c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2026-05-16T13:33:18-04:00",
 				"url": "https://doug.pub/2026/05/16/some-photos-taken-outside-taos.html"
 			},
@@ -50,7 +74,7 @@
 				"id": "http://dfj.micro.blog/2026/04/11/215554.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/1726/2026/43f4358ba1.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/43f4358ba1.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-11T21:55:54-04:00",
 				"url": "https://doug.pub/2026/04/11/215554.html"
 			},
@@ -58,7 +82,7 @@
 				"id": "http://dfj.micro.blog/2026/04/03/film-photography.html",
 				"title": "Film Photography",
 				"content_html": "<p>A few friends convinced me that I should give film photography a try so I took the plunge!</p>\n<p>The camera I chose is the Pentax K1000 which came with a 50mm f/2 lens. I wanted to find something that was completely manual/analog but still had a functional exposure meter and that’s exactly what the K1000 provides. With the exception of the meter, the camera is completely functional without a battery.</p>\n<p>It’s been an adjustment to photograph with full manual controls, including manual focus which I almost never need when shooting digital.</p>\n<p>My first roll* was Kodacolor 200 and I had a few photos that I was really happy with which I’ll share here.</p>\n<p>*: My <strong>actual</strong> first roll was a b&amp;w Kodak Tri-X and, sadly, the lab mistakenly destroyed it when they processed it as color. It&rsquo;s a sad outcome, but I suppose all a part of the overall experience with film! Honestly, I was a little relieved that it was the lab&rsquo;s mistake and not my own.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A few friends convinced me that I should give film photography a try so I took the plunge!\n\n\nThe camera I chose is the Pentax K1000 which came with a 50mm f/2 lens. I wanted to find something that was completely manual/analog but still had a functional exposure meter and that’s exactly what the K1000 provides. With the exception of the meter, the camera is completely functional without a battery. \n\nIt’s been an adjustment to photograph with full manual controls, including manual focus which I almost never need when shooting digital. \n\nMy first roll* was Kodacolor 200 and I had a few photos that I was really happy with which I’ll share here.\n\n*: My __actual__ first roll was a b&w Kodak Tri-X and, sadly, the lab mistakenly destroyed it when they processed it as color. It's a sad outcome, but I suppose all a part of the overall experience with film! Honestly, I was a little relieved that it was the lab's mistake and not my own.\n\n<img src=\"https://cdn.uploads.micro.blog/1726/2026/321461613d.jpg\" alt=\"A Pentax K1000 camera is placed on a wooden table alongside two boxes of Kodak film and a film canister.\"><img src=\"https://cdn.uploads.micro.blog/1726/2026/march-2026-kodacolor-1.jpg\" alt=\"Behind a chain-link fence, graffiti covers a concrete wall in a wooded area.\"><img src=\"https://cdn.uploads.micro.blog/1726/2026/march-2026-kodacolor-2.jpg\"><img src=\"https://cdn.uploads.micro.blog/1726/2026/march-2026-kodacolor-3.jpg\">\n",
+				"content_text": "A few friends convinced me that I should give film photography a try so I took the plunge!\n\n\nThe camera I chose is the Pentax K1000 which came with a 50mm f/2 lens. I wanted to find something that was completely manual/analog but still had a functional exposure meter and that’s exactly what the K1000 provides. With the exception of the meter, the camera is completely functional without a battery. \n\nIt’s been an adjustment to photograph with full manual controls, including manual focus which I almost never need when shooting digital. \n\nMy first roll* was Kodacolor 200 and I had a few photos that I was really happy with which I’ll share here.\n\n*: My __actual__ first roll was a b&w Kodak Tri-X and, sadly, the lab mistakenly destroyed it when they processed it as color. It's a sad outcome, but I suppose all a part of the overall experience with film! Honestly, I was a little relieved that it was the lab's mistake and not my own.\n\n<img src=\"uploads/2026/321461613d.jpg\" alt=\"A Pentax K1000 camera is placed on a wooden table alongside two boxes of Kodak film and a film canister.\"><img src=\"uploads/2026/march-2026-kodacolor-1.jpg\" alt=\"Behind a chain-link fence, graffiti covers a concrete wall in a wooded area.\"><img src=\"uploads/2026/march-2026-kodacolor-2.jpg\"><img src=\"uploads/2026/march-2026-kodacolor-3.jpg\">\n",
 				"date_published": "2026-04-03T14:49:59-04:00",
 				"url": "https://doug.pub/2026/04/03/film-photography.html"
 			},
