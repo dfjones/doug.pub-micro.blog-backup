@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://dfj.micro.blog/2026/11/02/if-you-like-chiptunes-and.html",
+				
+				"content_html": "<p>If you like chiptunes and metal, you may dig this album by Master Boot Record:</p>\n<p><a href=\"https://masterbootrecord.bandcamp.com/album/computer-metal\">masterbootrecord.bandcamp.com/album/com&hellip;</a></p>\n",
+				"content_text": "If you like chiptunes and metal, you may dig this album by Master Boot Record:\n\n[masterbootrecord.bandcamp.com/album/com...](https://masterbootrecord.bandcamp.com/album/computer-metal)\n",
+				"date_published": "2026-11-02T15:47:06-04:00",
+				"url": "https://doug.pub/2026/11/02/if-you-like-chiptunes-and.html"
+			},
+			{
 				"id": "http://dfj.micro.blog/2026/10/27/it-is-am-a-waymo.html",
 				
-				"content_html": "<p>It is 3am\nA Waymo quietly parks\nThe sick dog goes poop</p>\n",
-				"content_text": "It is 3am\nA Waymo quietly parks\nThe sick dog goes poop\n",
+				"content_html": "<p>It is 3am</p>\n<p>A Waymo quietly parks</p>\n<p>The sick dog goes poop</p>\n",
+				"content_text": "It is 3am\n\nA Waymo quietly parks\n\nThe sick dog goes poop\n",
 				"date_published": "2026-10-27T18:00:13-04:00",
 				"url": "https://doug.pub/2026/10/27/it-is-am-a-waymo.html"
 			},
